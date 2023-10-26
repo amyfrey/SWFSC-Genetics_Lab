@@ -1,0 +1,12 @@
+---
+bibliography: references.bib
+---
+
+# Communication {#intro}
+
+The primary method of communication for the genetics lab is our biweekly lab meeting, which are currently happening via google meets on Thursdays at 10am. We also use this time once per quarter to meet in the lab and work as a group to clean the labs.
+
+## Past Lab meeting notes
+
+Follow this link to past lab meeting notes to find valuable information that was shared with the group in the past.
+

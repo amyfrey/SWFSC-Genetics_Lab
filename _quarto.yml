@@ -3,10 +3,10 @@ project:
   output-dir: _book
   
 book:
-  title: "Faylab Lab Manual"
-  author: "Gavin Fay & Ashleigh Novak"
+  title: "SWFSC Genetics Lab"
+  author: "Amy Frey"
   date: last-modified 
-  description: "This is the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology" 
+  description: "This is a living lab document for the Marine Mammal and Marine Turtle Genetics Programs at Southwest Fisheries Science Center" 
   
   page-footer:
     left: |
@@ -19,7 +19,7 @@ book:
 
   chapters: 
     - index.qmd
-    - 01-intro-how-we-work.qmd
+    - 01-communication.qmd
     - 02-lab-culture-philosophy.qmd
     - 03-code-of-conduct.qmd
     - 04-onboarding.qmd
@@ -30,7 +30,7 @@ book:
     - 09-academics.qmd
     - 10-courses.qmd
     - 11-computing.qmd
-    - 12-umassd-resources.qmd
+ #   - 12-umassd-resources.qmd
 #    - 13-smast-resources.qmd
 #    - 14-other-faylab-resources.qmd  
 
