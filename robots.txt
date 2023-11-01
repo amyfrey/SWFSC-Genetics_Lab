@@ -1,1 +1,1 @@
-Sitemap: https://thefaylab.github.io/lab-manual/sitemap.xml
+Sitemap: https://amyfrey.github.io/SWFSC-Genetics_Lab/sitemap.xml

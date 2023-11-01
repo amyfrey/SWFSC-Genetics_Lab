@@ -7,325 +7,332 @@
     "text": "1 Welcome!\n This a living lab document for the Marine Mammal and Marine Turtle Genetics Groups.\nThe Marine Mammal & Turtle Division of the NMFS Southwest Fisheries Science Center (SWFSC) conducts research on marine mammals and sea turtles to monitor trends in abundance and provide management advice to domestic and international bodies.\nThis lab resource is intended to provide an overview for lab members and others about how we do our work, and our expectations for our team. It is also a space to document institutional knowledge and for important information about procedures and available resources.\n\nThe content for this book was developed as part of our group’s participation in the Openscapes Champions program.\nWe are extremely grateful to and acknowledge Dr. Julia Stewart Lowndes’ role in helping shape how our lab both works and how we articulate our identity. 🙏\nThanks also to TheFayLab and Stefanie Butland for the tutorial and for being willing to share their lab-manual template on Quarto. 🙌"
   },
   {
-    "objectID": "01-communication.html#past-lab-meeting-notes",
-    "href": "01-communication.html#past-lab-meeting-notes",
-    "title": "2  Communication",
-    "section": "2.1 Past Lab meeting notes",
-    "text": "2.1 Past Lab meeting notes\nFollow this link to past lab meeting notes to find valuable information that was shared with the group in the past."
+    "objectID": "01-current-projects.html#kemps-ridley-project",
+    "href": "01-current-projects.html#kemps-ridley-project",
+    "title": "2  Current Projects",
+    "section": "2.1 Kemp’s Ridley Project",
+    "text": "2.1 Kemp’s Ridley Project\nThis is part of an ongoing collaboration with The National Park Service (NPS) to incorporate genetics approaches to improving the accuracy of annual population monitoring and assessment of the Kemp’s ridley nesting on South Padre Island in Texas. Identification of Nesting Females responsible for nests laid on South Padre Island in Texas. Our goal is to use mtDNA sequencing, in combination with microsatellites and kinship analysis to match nesting females to nests in which the female is not known. This allows improved accuracy of annual population census, since nests are typically laid by unobserved females. Our analysis also informs Life history, ecology and mating behavior (e.g. multiple paternity)."
   },
   {
-    "objectID": "02-lab-culture-philosophy.html",
-    "href": "02-lab-culture-philosophy.html",
-    "title": "3  Lab culture and philosophy",
+    "objectID": "01-current-projects.html#leatherback-population-vital-rates-age-to-maturity-gtseq",
+    "href": "01-current-projects.html#leatherback-population-vital-rates-age-to-maturity-gtseq",
+    "title": "2  Current Projects",
+    "section": "2.2 Leatherback Population Vital Rates: Age to Maturity (GTseq)",
+    "text": "2.2 Leatherback Population Vital Rates: Age to Maturity (GTseq)\nDetermination of sea turtle population vital rates such as age to maturity, survival, sex ratios, and population size has been an ongoing SAIP priority for NMFS, and particularly for leatherbacks, where lack of basic demographic information continues to limit capacity to conduct more rigorous population and risk assessments. Since 2009, mass sampling of hatchlings has been carried out each nesting season at Sandy Point National Wildlife Refuge(SPNWR), St. Croix, US Virgin Islands as part of the first (“mark”) phase of an innovative long term CMR study to determine the age at first reproduction for leatherbacks. Over 62,000 hatchlings have been sampled to date. Since natal homing is known to occur in the SPNWR nesting population, in 2016 we initiated the second (“recapture”) phase of the CMR experiment to determine whether any of the “tagged” hatchlings from the first large cohort sampled in 2009 have matured and nested. The Marine Turtle Genetics Group is completing genotyping &gt;4,000 St. Croix leatherback hatchlings from the 2009 and 2010 nesting seasons and will begin processing 2011 hatchling samples to expand the baseline. We are using next-generation sequencing (NGS) in order to genotype the hatchlings and compare them to genotypes of adult first time nesters sampled in recent years to see if any have matured and returned to their natal beach to nest. In FY21 we expanded our SNP panel with additional SNPs and also incorporated microsatellites into our GT-Seq assays, and these will be further applied in FY22."
+  },
+  {
+    "objectID": "01-current-projects.html#leatherback-population-vital-rates-breeding-sex-ratios-stx-gtseq",
+    "href": "01-current-projects.html#leatherback-population-vital-rates-breeding-sex-ratios-stx-gtseq",
+    "title": "2  Current Projects",
+    "section": "2.3 Leatherback Population Vital Rates: Breeding Sex Ratios, STX (GTseq)",
+    "text": "2.3 Leatherback Population Vital Rates: Breeding Sex Ratios, STX (GTseq)\nThe previously increasing trend in leatherback nesting populations throughout the NW Atlantic has reversed in recent years, causing alarm and raising questions as to the status of this RMU or putative DPS. This is the case in St. Croix, with record low numbers of nesters in the last five consecutive years (Stewart et al. in prep). The 1:1 breeding sex ratios estimates for St. Croix were based on analysis for 2009-2011 (Stewart & Dutton 2014), and given the dramatic decline in the last few years, we started to re-evaluate breeding sex ratios in 2019 after a 10-year hiatus to determine if there has been a change in the proportion of males. This is a unique opportunity to extend a representative evaluation of current breeding sex ratios beyond a decade from the baseline we established in 2009, at what appears to be a period of transition in population trajectory. Analysis of hatchling samples from 2017, 2018, 2019 is being done with FY20-21 funding. This work is being extended with FY22-23 awarded funding to analyze samples from 2020, 2021 and 2022 to determine breeding sex ratios and provide a 13 year time series for an index northern Caribbean population (St. Croix)."
+  },
+  {
+    "objectID": "01-current-projects.html#leatherback-population-vital-rates-breeding-sex-ratios-mexicogtseq",
+    "href": "01-current-projects.html#leatherback-population-vital-rates-breeding-sex-ratios-mexicogtseq",
+    "title": "2  Current Projects",
+    "section": "2.4 Leatherback Population Vital Rates: Breeding Sex Ratios, Mexico(GTseq)",
+    "text": "2.4 Leatherback Population Vital Rates: Breeding Sex Ratios, Mexico(GTseq)\nThis project is postponed from the FY20-21 SAIP funding cycle. We completed Year 1, but had to postpone YR2/3 which we covered with the GTSeek contract. It is actually not a deliverable with the FY22-23 Award (we assumed we would catch up), instead the connectivity elements are in the current deliverables (see 3a & b below)"
+  },
+  {
+    "objectID": "01-current-projects.html#leatherback-nesting-population-structure-in-the-e.-pacific-gtseq",
+    "href": "01-current-projects.html#leatherback-nesting-population-structure-in-the-e.-pacific-gtseq",
+    "title": "2  Current Projects",
+    "section": "2.5 Leatherback Nesting Population Structure in the E. Pacific (GTseq)",
+    "text": "2.5 Leatherback Nesting Population Structure in the E. Pacific (GTseq)\nLeatherback nesting females were collected during January - April 2017 (and other years) at an Index monitoring beach (Barra de la Cruz, Oaxaca) as part of a population genetics assessment for Pacific leatherbacks. This project will have many genetic markers (mtDNA, SNPs, microsatellites) utilized to answer a variety of questions pertinent to ongoing management and recovery goals for this Critically Endangered population (population stock structure, breeding sex ratios, multiple paternity). This project is in collaboration with our Mexican partners, Kutzari and CONANP. In FY22-23 samples from nesting sites in Costa Rica and Ecuador samples will be incorporated to generate genomic (SNP/GT-Seq) data for stock structure analysis"
+  },
+  {
+    "objectID": "01-current-projects.html#connectivity-and-relatedness-among-eastern-pacific-leatherbacks--ngs-gtseq",
+    "href": "01-current-projects.html#connectivity-and-relatedness-among-eastern-pacific-leatherbacks--ngs-gtseq",
+    "title": "2  Current Projects",
+    "section": "2.6 Connectivity and relatedness among Eastern Pacific leatherbacks- NGS (GTseq)",
+    "text": "2.6 Connectivity and relatedness among Eastern Pacific leatherbacks- NGS (GTseq)\nThis project applies kinship approaches to determine pairwise relatedness between individuals and individual sampling locations of leatherbacks on nesting beaches (Mexico, Costa Rica), in-water at foraging areas, fishery bycatch and as strandings. We will genotype samples (GT-Seq SNP) already available at SWFSC from Ecuador, Peru and Chile (n=280), and continue to collect new samples through ongoing collaborations."
+  },
+  {
+    "objectID": "01-current-projects.html#connectivity-and-relatedness-among-northern-caribbean-leatherbacks--ngs-gtseq",
+    "href": "01-current-projects.html#connectivity-and-relatedness-among-northern-caribbean-leatherbacks--ngs-gtseq",
+    "title": "2  Current Projects",
+    "section": "2.7 Connectivity and relatedness among Northern Caribbean leatherbacks- NGS (GTseq)",
+    "text": "2.7 Connectivity and relatedness among Northern Caribbean leatherbacks- NGS (GTseq)\nThis project applies kinship approaches to determine pairwise relatedness between individuals and individual sampling locations of leatherbacks to determine fine scale demographic structure among nesting beaches across the northern Caribbean. Samples (n=241 embryos, hatchlings and nesters) have already been collected from Puerto Rico, St. Thomas, St. Kitts, and St. Croix (beaches outside of SPNWR) and additional samples will be collected during 2022 and 2023."
+  },
+  {
+    "objectID": "01-current-projects.html#northern-caribbean-leatherback-demographics",
+    "href": "01-current-projects.html#northern-caribbean-leatherback-demographics",
+    "title": "2  Current Projects",
+    "section": "2.8 Northern Caribbean leatherback Demographics",
+    "text": "2.8 Northern Caribbean leatherback Demographics\nFreshly laid yolkless (“spacer”) eggshells have been collected from unobserved nests at Sandy Point and other beaches around St. Croix and in the wider region (Puerto Rico, Vieques, St. Thomas, St. John) in order to provide a source of DNA to identify the mother. Genetic profiles from these eggshells will be compared to the Sandy Point nester genetic database to find matches and then these data will be used to improve the nester count and identify beach use and nesting demographics by Sandy Point females that lay nests outside the nightly monitored index beach."
+  },
+  {
+    "objectID": "01-current-projects.html#hawaii-hawksbill-demographics-gtseq",
+    "href": "01-current-projects.html#hawaii-hawksbill-demographics-gtseq",
+    "title": "2  Current Projects",
+    "section": "2.9 Hawaii Hawksbill Demographics (GTseq)",
+    "text": "2.9 Hawaii Hawksbill Demographics (GTseq)\nOur goal is to use NGS, specifically ddRAD for SNP discovery, followed by GTseq to SNP genotype hatchlings and nesting females for the purpose of assessing breeding sex ratios and improve population census for the Hawaii nesting population. This will improve demographic information and the quality of population assessments that are Recovery Plan priorities for Pacific hawksbills, and is part of a joint project with the PIFSC and PIRO to implement NOAA’s Sea Turtle Stock Assessment Improvement Plan (SAIP). We will build on prior years work for samples from 2017-2020 nesting seasons by analyzing samples from the 2021 and 2022 seasons to achieve a 6 year dataset. We’ll also start live hatchling sampling for genetic tagging. Objectives are: 1) Identify the females responsible for laying unobserved nests on Hawai‘i to improve nesting population counts and reproductive parameters (e.g. numbers nests/females, nesting periodicity, average clutch size, etc.). 2) Apply kinship approaches to reconstruct parental genotypes from mother-offspring comparison to census males, determine operational sex ratios (OSR; Hays et al 2010) and mating system of the Hawaiian breeding population."
+  },
+  {
+    "objectID": "01-current-projects.html#connectivity-and-relatedness-among-pacific-island-hawksbills--ngs-gtseq",
+    "href": "01-current-projects.html#connectivity-and-relatedness-among-pacific-island-hawksbills--ngs-gtseq",
+    "title": "2  Current Projects",
+    "section": "2.10 Connectivity and relatedness among Pacific Island hawksbills- NGS (GTseq)",
+    "text": "2.10 Connectivity and relatedness among Pacific Island hawksbills- NGS (GTseq)\nThis project applies kinship approaches to determine pairwise relatedness between individuals (nesters, strandings, foragers, juveniles) to build spatially explicit maps, determine spatial nesting range of individual turtles (e.g. connectivity between nesting beaches), and origin of juveniles and adults foraging around Hawai‘i, as well as extent of dispersal to other Pacific Island foraging areas. We have been awarded FY22-23 funding (S&T STIFA/SAIP). We will build on the current baseline dataset from the most extensively sampled nesting site in Hawai’i to determine demographic structure of this index population and expand sampling to incorporate individual nesting samples from other sites around the Hawaiian Islands (e.g. Maui, Moloka‘i), to map connectivity between nesting sites. Next, all other samples (in water, strandings, males, juveniles, post-hatchlings) will be incorporated to determine demographic connectivity and origin of adults and juveniles. We will add samples already obtained from rare nesters on other Pacific Islands to determine connectivity (if any) of individuals in Hawai‘i with breeding populations elsewhere in the Pacific. Finally, we will genotype samples we have collected from foraging grounds in Guam, Palau, Northern Mariana Islands to determine whether they are from Hawai’i. Previous mtDNA analysis of these samples detected Hawaii nesting haplotypes that are common at the Guam and Mariana foraging grounds ~6,000 km away, but mtDNA tools are insufficient to confirm this connectivity. Our pairwise relatedness analysis between all the sampled nesters and foraging turtles will be able to determine whether Hawai’i juveniles disperse to these distant foraging grounds."
+  },
+  {
+    "objectID": "01-current-projects.html#pacific-hawksbill-population-structure--whole-mitogenome-sequencing",
+    "href": "01-current-projects.html#pacific-hawksbill-population-structure--whole-mitogenome-sequencing",
+    "title": "2  Current Projects",
+    "section": "2.11 Pacific Hawksbill population structure- whole mitogenome sequencing",
+    "text": "2.11 Pacific Hawksbill population structure- whole mitogenome sequencing\nAdd resolution to haplotype EiIP33, which is very common and widespread across the entire Pacific Ocean."
+  },
+  {
+    "objectID": "01-current-projects.html#pacific-hawksbill-population-structure-standard-mtdna",
+    "href": "01-current-projects.html#pacific-hawksbill-population-structure-standard-mtdna",
+    "title": "2  Current Projects",
+    "section": "2.12 Pacific Hawksbill population structure (standard mtDNA)",
+    "text": "2.12 Pacific Hawksbill population structure (standard mtDNA)\nThis project seeks to advance knowledge of hawksbill turtle rookery stock structure in order to define units to conserve (ESA Recovery Plans) and fill in gaps in the rookery baseline in order to conduct more accurate Mixed Stock Analysis broadly across the Pacific. This project uses mtDNA sequencing of the standard 816bp control region fragment and will be included in a regional manuscript."
+  },
+  {
+    "objectID": "01-current-projects.html#pacific-green-turtles-nesting-and-foraging-fiji",
+    "href": "01-current-projects.html#pacific-green-turtles-nesting-and-foraging-fiji",
+    "title": "2  Current Projects",
+    "section": "2.13 Pacific green turtles nesting and foraging (Fiji)",
+    "text": "2.13 Pacific green turtles nesting and foraging (Fiji)\nThe overall goal of this research project is to fill in gaps remaining of stock composition and connectivity of green turtle foraging grounds to ultimately update a Many-to-Many Mixed Stock Analysis on these foraging populations throughout the Pacific. This also involves adding rookeries to the baseline dataset. The current work in progress involves analyzing mtDNA of samples obtained from various locations in Fiji. Partners in Fiji (funded by PIRO) have managed to find and sample nesting green turtles at one remote location. These samples (Fiji nesters) need to be sent to SWFSC and will be an analysis priority 1."
+  },
+  {
+    "objectID": "01-current-projects.html#east-pacific-green-turtles-nesting-and-foraging-sdbay-and-sg-river-socal",
+    "href": "01-current-projects.html#east-pacific-green-turtles-nesting-and-foraging-sdbay-and-sg-river-socal",
+    "title": "2  Current Projects",
+    "section": "2.14 East Pacific green turtles nesting and foraging (SDBay and SG River, SoCal)",
+    "text": "2.14 East Pacific green turtles nesting and foraging (SDBay and SG River, SoCal)\nOngoing foraging population assessment in California Current, Southern California index sites."
+  },
+  {
+    "objectID": "01-current-projects.html#east-pacific-green-turtles-baja-mexico-foraging",
+    "href": "01-current-projects.html#east-pacific-green-turtles-baja-mexico-foraging",
+    "title": "2  Current Projects",
+    "section": "2.15 East Pacific green turtles: Baja (Mexico) foraging",
+    "text": "2.15 East Pacific green turtles: Baja (Mexico) foraging\nOld samples from extensive study of Baja foraging grounds that were never sequenced with longer primers"
+  },
+  {
+    "objectID": "01-current-projects.html#florida-bay-loggerhead-foraging-population-assessment",
+    "href": "01-current-projects.html#florida-bay-loggerhead-foraging-population-assessment",
+    "title": "2  Current Projects",
+    "section": "2.16 Florida Bay loggerhead foraging population assessment",
+    "text": "2.16 Florida Bay loggerhead foraging population assessment\nThe goal of this project is to determine stock composition (MU & DPS) of loggerheads in Florida Bay. The work in progress involves analyzing mtDNA of samples obtained across multiple years."
+  },
+  {
+    "objectID": "01-current-projects.html#atlantic--gulf-of-mexico-green-turtle-stock-structure-analysis",
+    "href": "01-current-projects.html#atlantic--gulf-of-mexico-green-turtle-stock-structure-analysis",
+    "title": "2  Current Projects",
+    "section": "2.17 Atlantic- Gulf of Mexico green turtle stock structure analysis",
+    "text": "2.17 Atlantic- Gulf of Mexico green turtle stock structure analysis\nThis project seeks to advance knowledge of green turtle rookery stock structure in order to define units to conserve (ESA Recovery Plans) and fill in gaps in the rookery baseline in order to conduct more accurate Mixed Stock Analysis broadly across the Caribbean and GOM. This addresses a current management need to assess critical habitat (ESA:being led by OPR) and estimate the contribution (if any) of rookeries that belong in the S Atlantic DPS to foraging areas in US waters (BiOP: being led by SERO). This project uses mtDNA sequencing of a suite of established mtDNA markers that are informative at the population level, including the standard 816bp control region fragment, new mitogenomic markers (Shamblin), and a mtDNA SSTR region."
+  },
+  {
+    "objectID": "01-current-projects.html#atlantic---n.-caribbean-green-turtle-stock-structure-analysis",
+    "href": "01-current-projects.html#atlantic---n.-caribbean-green-turtle-stock-structure-analysis",
+    "title": "2  Current Projects",
+    "section": "2.18 Atlantic - N. Caribbean green turtle stock structure analysis",
+    "text": "2.18 Atlantic - N. Caribbean green turtle stock structure analysis\nSandy Point, St. Croix. This is a stand-alone project to complete a comprehensive survey of all nesting sites around St. Croix. East End beaches and Buck Island were already done (Shultz et al. In press). Sandy Point now remains to be done. There is a need to obtain samples from Puerto Rico to resolve DPS uncertainty and we are working with partners to initiate sampling effort in 2022-23."
+  },
+  {
+    "objectID": "01-current-projects.html#establishing-life-history-parameters-for-pacific-olive-ridley-turtles",
+    "href": "01-current-projects.html#establishing-life-history-parameters-for-pacific-olive-ridley-turtles",
+    "title": "2  Current Projects",
+    "section": "2.19 Establishing life history parameters for Pacific olive ridley turtles",
+    "text": "2.19 Establishing life history parameters for Pacific olive ridley turtles\nThis is part of a multi-faceted project combining skeletochronology, stable isotope and genetic analysis. We will sequence mtDNA of tissue and/or bone samples from approx 50 olive ridleys strandings to determine whether they belong to the East or West Pacific breeding populations. This is being funded by FY22 S&T STIFA (SAIP), so labwork needs to be completed in FY22"
+  },
+  {
+    "objectID": "01-current-projects.html#mtdna-analysis-of-rare-olive-ridley-nesting-in-hawaii",
+    "href": "01-current-projects.html#mtdna-analysis-of-rare-olive-ridley-nesting-in-hawaii",
+    "title": "2  Current Projects",
+    "section": "2.20 mtDNA analysis of rare olive ridley nesting in Hawaii",
+    "text": "2.20 mtDNA analysis of rare olive ridley nesting in Hawaii\nRare nesting, so there’s interest from PIRO on where this fits with current population structure in Pacific. We will sequence mtDNA and analyze haplotype(s)."
+  },
+  {
+    "objectID": "01-current-projects.html#dna-extraction-of-hawksbill-turtle-carapace-and-products-shellbank",
+    "href": "01-current-projects.html#dna-extraction-of-hawksbill-turtle-carapace-and-products-shellbank",
+    "title": "2  Current Projects",
+    "section": "2.21 DNA Extraction of hawksbill turtle carapace and products (Shellbank)",
+    "text": "2.21 DNA Extraction of hawksbill turtle carapace and products (Shellbank)\nThe World Wide Fund for Nature (WWF) Australia and Southwest Fisheries Science Center Marine Turtle Genetics Program (MTGP) are collaborating in Australia’s multi-faceted and partnered hawksbill turtle conservation program being delivered in Southeast Asia and Pacific (Asia-Pacific) to address unsustainable use and illegal trade in marine turtles and turtle products. With a focus on hawksbill turtles, one of WWF’s program objectives is to develop and apply new innovative approaches to effectively track marine turtles and turtle products along the trade chain from source to sale. To catalyze enforcement and aid conservation, traceability of hawksbill turtle stocks targeted in trade will require a better understanding of hawksbill turtle genetic origins and relationships between nesting and foraging populations. The MTGP has the lead responsibility for generating, analyzing and interpreting genetic data by developing the capacity to identify the stock origin of wild and confiscated (illegally trafficked) hawksbill turtle parts and products. The first phase of this project was completed (determining whether DNA can be extracted and sequenced from confiscated “tortoiseshell” jewelry), and now efforts are underway (WWF- Shellbank Project) to develop and apply a “toolkit” for forensics application. We have samples on hand at SWFSC and propose to continue with extractions and collaboration in FY23 as resources allow."
+  },
+  {
+    "objectID": "01-current-projects.html#edna-pilot--socal-green-turtles",
+    "href": "01-current-projects.html#edna-pilot--socal-green-turtles",
+    "title": "2  Current Projects",
+    "section": "2.22 eDNA pilot- SoCal green turtles",
+    "text": "2.22 eDNA pilot- SoCal green turtles\nOngoing foraging population assessment in California Current, Southern California index sites. Collect samples for proof of concept"
+  },
+  {
+    "objectID": "01-current-projects.html#edna-pilot--leatherbacks",
+    "href": "01-current-projects.html#edna-pilot--leatherbacks",
+    "title": "2  Current Projects",
+    "section": "2.23 eDNA pilot- leatherbacks",
+    "text": "2.23 eDNA pilot- leatherbacks\nOngoing foraging population assessment in California Current, collect samples for proof-of-concept potentially for BOEM, etc project Phase 2 with MTEAP."
+  },
+  {
+    "objectID": "01-current-projects.html#sea-life-park-hawaii-captive-green-turtle-kinship",
+    "href": "01-current-projects.html#sea-life-park-hawaii-captive-green-turtle-kinship",
+    "title": "2  Current Projects",
+    "section": "2.24 Sea Life Park (Hawaii) captive green turtle kinship",
+    "text": "2.24 Sea Life Park (Hawaii) captive green turtle kinship\nThere are 14 captive green turtles at SLP with incomplete histories and an interest in improving husbandry by separating first order relatives that might breed with each other. We will sequence mtDNA and genotype all samples to conduct kinship and relatedness to determine family relationships."
+  },
+  {
+    "objectID": "01-current-projects.html#fisheries-bycatch-strandings-mtgp-sample-requests",
+    "href": "01-current-projects.html#fisheries-bycatch-strandings-mtgp-sample-requests",
+    "title": "2  Current Projects",
+    "section": "2.25 Fisheries Bycatch, Strandings & MTGP Sample Requests",
+    "text": "2.25 Fisheries Bycatch, Strandings & MTGP Sample Requests\n• Pacific Fisheries (Hawaii Longline and American Samoa Longline, International) This work is a component of our (MTGP) core mission as NOAA’s Center for sea turtle genetics, which is to determine the stock origin of turtles caught in Hawaii and American Samoa longline fisheries. We have developed and apply a combination of mtDNA and nDNA approaches to assign breeding population origin (DPS, MU or DIP) for all species of sea turtle bycatch. We have optimized a set of microsatellite markers and a baseline dataset for Pacific leatherbacks that allow us to carry out stock assignment of individual turtles (see Assignment testing project below). We are also moving towards being able to also individually assign green turtles with microsatellites. Routine mtDNA sequencing allows us to perform Mixed Stock Analysis (MSA) for all species. This project is in collaboration with PIFSC and PIRO to address management needs driven by Biological Opinions and Species Recovery Planning, and is an on-going effort.\n• Atlantic Leatherback and Loggerhead Longline Fisheries By-catch from the SEFSC This work is a component of our (MTGP) core mission as NOAA’s Center for sea turtle genetics, which is to determine the stock origin of turtles caught in longline fisheries monitored by SEFSC/SERO. This project is to determine the stock origin of leatherback and loggerhead turtles caught in Atlantic longline fisheries by analyzing microsatellite profiles (leatherbacks) and mtDNA of all sampled turtles. We recently published the results from the analysis of ~400 leatherbacks (Stewart, K.R., LaCasella, E.L., Roden, S.E. et al. 2016. Ecosphere) in collaboration with SEFSC. Samples are sent semi-regularly, we will continue to process additional batches to add to this on-going project.\n• West Coast Turtle Strandings This project is to determine the stock origin of stranded turtles along the US west coast by analyzing mtDNA sequences and nDNA genotypes of sampled stranded turtles. Although there is no nesting along the US west coast, we do have greens, loggerheads, leatherbacks and olive ridley turtles that forage in the waters along California, Oregon and Washington. This project is an on-going effort, especially with increasing numbers of stranded individuals in the recent past. This work is in collaboration with WCRO and the US West Coast Stranding Network. Information serves to gain insight into dispersal, life history and connectivity among Pacific sea turtle populations.\n\n• Leatherback Turtle Stock Assignment A. Along with our established baseline dataset of globally distributed leatherback turtle populations that genetically characterizes and distinguishes stocks by using a suite of 16 microsatellite markers, we can generate a genotype for an individual and determine its stock origin through assignment analysis. This is ongoing as MTGP receives samples from different regions, and information is applied to several projects as needed (e.g. Fisheries bycatch, strandings, FG/In-water assessment). The overall goal is to compile a geo-spatial stock-specific distribution map for each ocean basin to better understand the boundaries of leatherback nesting populations in the marine environment (DPS, MU and DIP)."
+  },
+  {
+    "objectID": "01-current-projects.html#archiving",
+    "href": "01-current-projects.html#archiving",
+    "title": "2  Current Projects",
+    "section": "2.26 Archiving:",
+    "text": "2.26 Archiving:\nAccessioning priorities as of 8 February 2023 in order:/ 1. Strandings, one offs, mostly complete except labeling: Seattle Aquarium, SeaWorld (including olive blood), Pacific Marine Mammal Center, California Academy of Sciences, SWFSC. Should all be done this week. SeaWorld may take slightly longer. I’m waiting on answers from Lexi to finish that one off. PMMC, CAS, and SWFSC were all accessioned this week (MTGP email coming at end of week). Hawaii long line samples from a 2014 shipment were also completed this week.\n2. St. Croix. Should be complete this week unless there are questions on the data.\n3. DNA Accessions. Database error has been fixed, and I can accession DNA again.\n4. Fiji. Inventory underway.\n5. Remaining San Diego Bay/Seal Beach samples.\n6. Continue labeling NPAIS whenever possible.\n\nCurrent projects as of 22 March 2022: 1. St. Croix 2021 samples and data received. Need inventory, accessioning, and labeling. [15 June: Done.]\n2. 2021 Hawaiian hawksbill hatchling samples and data received. ½ inventoried. Need to finish inventory, accession, and label. Should be doable in short time frame. [26 April Update: Accessioned. Needs labeling.]\n3. Galapagos samples. Awaiting word that they have cleared USFWS before proceeding. [15 June Update: I would like to relabel these, because I got more complete Field ID data, but they are labeled, etc.]\n4. Mexico samples. Either very recently or not yet received (Erin coordinating.). Will await word that they’ve cleared USFWS before proceeding. [15 June Update: Inventoried. Most of the data is physically on the vials rather than in the provided datasheet. Questions about import and provenience before I can move forward.]\n5. NPS 2021 samples. Accessioned. I’m labeling these as time permits around new accessions. [26 April Update: Done.]\n6. St. Croix 2020. Waiting on data from Kelly Stewart to finish last few females and spacers (questions on data) and to work on the hatchlings (data not yet received). [15 June Update: Data in prep for accession of hatchlings. Can probably finish in full within a week, but have a couple of mammal priority batches to finish first.]\n7. 2020 Hawaiian hatchlings. Done. Working with Amy to pick a date to get them into bins in the freezer (multiple person job given height of storage/weight of bins). Need to return cooler to Alex. [15 June Update: Cooler back with Alex in HI.]\n8. NPS 2020 samples. Accessioned. Labeling ongoing. [15 June Update: Done.]\n9. I’m expecting additional turtle strandings in April or so for accession to go with Heather Harris’ biotoxin study sample send off. I anticipate these being quick turnaround. [15 June Update: Heather Harris samples sent off 13 June 2022.]\n10. Have asked Barbara Schroeder for the EVER numbers for the most recent Everglades loan samples, so that I can add them to the database and find the samples in our collection when requested for the annual spotcheck.\n11. Extraction batches, check in/check out DNA/tissue, loan documentation, etc. as needed.\nNote: Turtle labeling is one of the big hurdles with limited lab time, because labeling is the most time-consuming part of the accessioning process (assuming the data is pretty clean), and turtles tend to come in large numbers. I’ve been prioritizing inventory through accession, and labeling large batches when I have time around new specimens in mammals or turtles. This will take some time to catch up on the label backlog when we have more lab access.\nNote 2: With Kelly retiring, I’m hoping to focus a lot of time on straightening out the years old Mammals backlog (Turtles has one too, but nobody’s retiring that I know of!) before she goes."
+  },
+  {
+    "objectID": "02-mmtd-archive.html",
+    "href": "02-mmtd-archive.html",
+    "title": "3  Marine Mammal and Turtle Archive",
     "section": "",
-    "text": "We approach our science with a common denominator of kindness. As part of our core lab culture, we:\n\nAsk for help, and share our learning\nMake ourselves available\nCome prepared and engage\nCelebrate accomplishments (ours & those of others)\nSustain a positive, safe learning environment\nHave an interdisciplinary (open) mindset\nAre mindful of our own biases\nPlan with intention, and follow through\nFoster inclusivity within our group and greater community\nPromote and sustain healthy work-life integration\nPractice radical candor\nAcknowledge and give credit to other lab member’s work\n\nThough we do not expect incoming members to memorize everything, we do expect members to be aware of the group’s values.\nAsk for help, and share your learning: We are all learners, and most of our learning is done from each other. It is inefficient to struggle through problems alone. Ask for and give assistance with appropriate cognizance of the value of your time and the time of the person you are asking. You are not the first or last person to encounter a problem. When you identify a problem add an issue to the lab issues repository, and update it with solutions when it is resolved. Also consider writing a tutorial/blog post for inclusion in our lab’s shared resources, and share with the larger community by tweeting, leading and sharing at a lab meeting, or running a workshop (Quantfish woRkshop group, SouthCoast useR group, etc).\nMake yourself available: Be responsive to communication, and make time for things that address longer term goals, even when busy. For example, do not skip on things like attending seminars just because you have a big deadline looming (see note below on planning and organization). Note that being available does not mean that you are available 24/7 - this is not expected. Because as a group we value the role of collaboration and interaction in improving our work, it is expected that you be available in the lab/office during normal business hours for some time during the week (see section on attendance expectations).\nCome prepared and be engaged: Value your time. Be present during lab and individual meetings, and come to your work ready to do your work. Contribute and participate in planning and lab discussions. When it is your turn to run a meeting, come with an agenda and be prepared with questions. Aim to view meetings as events that contribute to your work and productivity, rather than taking away from them.\nCelebrate accomplishments (yours & others): You and your colleagues work hard. Things don’t always go exactly as you plan. Be supportive and proud of yourself and your peers when you accomplish things. We are not competing with each other - someone else’s success does not mean your failure. Share your accomplishments with others!\nSustain a positive, safe learning environment: Everyone learns something for the first time at some time, and people learn in different ways. Expressing that you don’t know something is OK, and we understand that this can make someone feel vulnerable. We strive to maintain a culture that allows for and encourages this vulnerability. Community members should not be disparaged for not knowing things, and in addition, should not be disparaged for knowing things or wanting to learn.\nHave an interdisciplinary (open) mindset: We apply our work at the science-policy interface. This means we work on problems that span multiple disciplines. Co-creation of knowledge requires transdisciplinary approaches that can result in solutions that would not be possible with siloing. You will be collaborating with others who have different types of expertise, values, and terminology. Trust the expertise of others and actively seek feedback recognizing the importance of specialization.\nBe mindful and aware of your own biases: We all have biases that are inherent and can not be removed, but we can still work on both being less biased, and more aware of bias in ourselves and others. Periodically check in on your biases.\nPlan with intention, and follow through: Be organized and adaptable. Things don’t always go as planned and that’s OK. Planning can help you adapt when they don’t (see Come Prepared). Find a program/project management approach that works for you (see “How we work”); being organized can reduce stress immensely and help you progress with your goals.\nFoster inclusivity within our group and greater community: Part of our lab culture is that we are good citizens of our community, we take on leadership roles within SMAST and the University, we are supportive of others in our community during their milestones, we actively participate in SMAST events (e.g. the IMS graduate research symposium) and perform outreach. Work with Gavin when crafting your individual mentoring/development plans (see Chapter on Onboarding) to identify what you want to aim your efforts at.\nPromote and sustain healthy work-life integration: Our scientific research is not the only important thing in our lives, and publishing research is not the only mechanism by which to provide science and support our communities. We recognize the importance of our other commitments in keeping us healthy (mentally and physically) and bring our whole selves to our efforts. Try not to normalize overwork or being busy as achievement or status.\nPractice radical candor: We care personally while also challenging directly. Be honest when communicating, accept critical (but kind) feedback, and give the same to others. View relationships within the group as collaborative rather than evaluative. Don’t take constructive criticism personally.\nAcknowledge and give credit: Working as part of a team, we will often (always?) be building on work done by others, receive assistance with work (see “Ask for help”), and using others’ words, code, content. Include acknowledgement and give credit for those contributions, in all forms of communication. We share content and code within the group with this expectation. One easy approach is to include hyperlinks to the work of others or their social media in your work. This also helps to amplify their voice and work as well as yours."
+    "text": "The Marine Mammal and Sea Turtle Research Tissue Collection is one of the largest marine mammal and marine turtle sample collections in the world, serving a pivotal role in accomplishing the mandates and mission of the Agency. The collection comprises over 290,000 tissue and DNA samples from 118 species collected globally over the past 30 years (with some samples dating back more than 100 years).\nWe have a vast network of SQL databases that enable us to access and curate the data associated with the collection. Below is a list of the databases most relevent to the MMTD genetics programs.\nThere are several ID numbers assigned to samples as they become a part of our Archive. Once a sample is archived it will be associated with a Lab_ID, an Animal_ID/Turtle_ID, and one or more Tissue_IDs (depending on how many tissue samples were collected for that individual. Once the DNA has been extracted a sample will also be associated with a DNA_ID, and can have multiple DNA_ID numbers if it is extracted multiple times.\n\nTissue Archive The tissue archive database includes both mammals and turtles and has an animal collection event as the unique identifier. Lab_ID or Animal_ID are the primary ID numbers used in this database. There can be replicate animals in this database, different Lab_Id, but same Animal_ID. It is the place to look for basic collection information including animal ID, field ID, species, sex, collection type, collection date, collection location, latitude and longitude, city, state, county, country, island, ocean basin, associated cruise, use restrictions, contact, comments.\nTurtle Archive The turtle archive is very similar to the tissue archive, but includes only turtles and has a few different fields, such as turtle specific measurements, collection method, animal activity, gear type, stage class, sample type.\nTissue Vial Storage Database The primary ID number used in this database is the Tissue_ID number. Some of the information that you will find in this database includes information about the tissue type, quantity, perservative and location of the tissue sample.\nExtraction Database When samples are extracted they are entered into this database as a part of a batch, so there is a Extraction batch table as well as an extraction sample table. Batch information includes batch #, project supervisor, extraction contact, extraction type, date, number of samples extracted, number of negative controls, contamination iformation, and comments. Sample information includes Batch #, Lab_ID, Tissue_ID, DNA_ID, comments.\nDNA Storage Database DNA_ID number is the primary identifier used in this database, this is where DNA location, concentration, quantity, use restrictions, and associated comments can be found.\nRun Index Database When DNA is processed in the genetics labs, meaning an additional genetics files are created, those files are archived in the Run Index. The files found in the run index were generally run on an Applied Biosystems Genetic Analyzer and are either a Sanger sequencing file(.ab1) which is generated when sequencing mitochondrial DNA, or a genescan file(.fsa) generated when running microsatellites on nuclear DNA. Information that you can find in this database would include Lab_ID, run date, plate information, file type, primer, assay, plate well, file name.\nNGS Run Library and NGS Fastq Databases This is very similar to the Run Index database but for .fastq files that were generated while sequencing an NGS(next generation sequencing library).There are 2 main databases the NGS Run Library database, and NGS Fastq database. The Run Library database contains information such as a run_ID, run date, # of samples, species, library prep method, sequencing instrument used, sequencing location, read length, read type. The NGS fastq database includes information about the individual samples that were included in each run, so Lab_ID, DNA_ID, run_ID, Indexes used, original file name and archived file name. I\nPrimer and Assay Databases When DNA is processed in the genetics labs, meaning an additional genetics files are created (.fasta, .fastq, .ab1, .fsa), those files are archived in the Run Index or NGS Run Library databases. The primers or assays used when generating that data can be found in these databases.\nSequence Database This database is where mitochondrial DNA haplotypes that are assigned after running sanger sequencing are captured. You will find Lab_ID, DNA_ID, run date, aligned date, haplotype name, user that called the haplotype, comments.\nMicrosatellite genotype database This is where the genotypes that are called from genescans are captured. The types of data you will find here include Lab_ID, DNA_ID, run name, run date, marker(assay), allele calls, raw data peak heights, and raw data lengths.\nSNP genotype database This is similar to the microsatellite database but these calls are typically made after a qPCR assay."
   },
   {
-    "objectID": "03-code-of-conduct.html#short-version",
-    "href": "03-code-of-conduct.html#short-version",
-    "title": "4  Code of Conduct",
-    "section": "4.1 Short version",
-    "text": "4.1 Short version\nThe Fay lab is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, race, or religion. We do not tolerate harassment of participants in any form and prioritize marginalized people’s safety over privileged people’s comfort.\nThis code of conduct applies to all Fay lab spaces, including group and individual meetings (face to face and remote), workshops, social events, email correspondence, and web channels and code repositories, both online and off. Anyone who violates this code of conduct may be sanctioned and referred to the university’s academic policies. Some Fay lab spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules."
+    "objectID": "03-communication.html#past-lab-meeting-notes",
+    "href": "03-communication.html#past-lab-meeting-notes",
+    "title": "4  Communication",
+    "section": "4.1 Past Lab meeting notes\n",
+    "text": "4.1 Past Lab meeting notes\n\nsee below for past lab meeting notes to find valuable information that was shared with the group in the past.\n\n\n4.1.1 10/20/23\nrun by V. Pease, notes by A. Frey\n-Please update FY23 project spreadsheets\n-The MiSeq “motherboard” was replaced by Gilbert, our new Illumina tech, that has been the fix that has worked for others having the blue screen issue since updating the Windows operating system.\n-Other notes regarding the MiSeq:\nwith FRD ramping up usage, V. Pease has set up a google calendar for sign up, to help with communication. It is still important to keep the paper calendar, located next to the machine, updated as well.\nLexi’s training is going well. E. Lacasella is training her to do extractions, her and B. Hanser made low TE. If you need help with anything please reach out to Lexi via email and cc V. Pease. Next week Lexi will be busy helping with Necropsy workshop as well as turtle field day.\nV. Pease is going to be sending out email invite to monthly group lunch, similar to Gaby’s Pizza thursday.\nAt next lab meeting we will have a focused discussion on next steps for High Performance Computing (HPC)- replacing ahi.\nRound Robin for current Lab Work\nV. Pease- working on extractions and sequencing some killer whales\nA. Harmon- working on some extractions and quantifications of Blue Whales. Splitting some tissue to send out. Clearing her plate to make time to get caught up on 4 loans. Asking for input/edits on SOP’s for check-in’s and check-outs of DNA and Tissue. Working through check-in lists from group check-in effort, and has been able to update/correct over 10,000 records. Working on the annual collection report, which has not been done for the last 3 FY’s. Also recieved the museum cabinet for hummeri, curious to hear how people like it, because she is interested in getting one for …?\nA. Frey- no labwork planned, focusing on analysis catchup.\nS. Roden- also no labwork planned, focusing on analysis catchup.\nL. Mena- busy next week with necropsies and field work. Other than that just working through the labs getting familar with where everything goes.\nP. Morin- VGL meeting with B. Hanser, working on getting Kogia samples. Able to recently archive 1000 fastq files from a collaborator.\nE. Archer- got request to renew database contract (Dan), data management has been discussed across division, looking for some concrete needs for database management position.\nWrapping up, V. Pease reported that film storage is working out well for now. Also looking for input/suggestions for any adjustments to lab upkeep lists and best practices, also mentioned writing any needs on the white boards located on the fridges in the labs./"
   },
   {
-    "objectID": "03-code-of-conduct.html#longer-version",
-    "href": "03-code-of-conduct.html#longer-version",
-    "title": "4  Code of Conduct",
-    "section": "4.2 Longer version",
-    "text": "4.2 Longer version\nThe Fay lab is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of group members or others in our larger communities in any form. Bullying is unwanted, aggressive behavior that involves a real or perceived power imbalance. The University of Massachusetts Dartmouth’s Equal Opportunity and Anti-Harassment policies, complaint procedures and form provides definitions and examples of harassment and sexual harassment.\nThis code of conduct applies to all Fay lab spaces, including group and individual meetings (face to face and remote), workshops, social get togethers, email correspondence, and web channels and code repositories, both online and off. Anyone who violates this code of conduct may be sanctioned and referred to the School’s and university’s academic policies.\nSome Fay lab spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.\nHarassment includes:\n\nOffensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion.\n\nUnwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.\nDeliberate misgendering or use of ‘dead’ or rejected names.\nGratuitous or off-topic sexual images or behaviour in spaces where they’re not appropriate.\nPhysical contact and simulated physical contact (eg, textual descriptions like “hug” or “backrub”) without consent or after a request to stop.\nThreats of violence.\nIncitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm.\nDeliberate intimidation.\nStalking or following.\nHarassing photography or recording, including logging online activity for harassment purposes.\nSustained disruption of discussion.\nUnwelcome sexual attention.\nPattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others\nContinued one-on-one communication after requests to cease.\nDeliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect vulnerable people from intentional abuse.\nPublication of non-harassing private communication.\n\nThe Fay lab prioritizes marginalized people’s safety over privileged people’s comfort. The PI (Gavin Fay) reserves the right not to act on complaints regarding:\n\n‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’\nReasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you.”\nCommunicating in a ‘tone’ you don’t find congenial\nCriticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions\n\n\n4.2.1 Reporting\nIf you are being harassed by a member of the Fay lab, notice that someone else is being harassed, or have any other concerns, please contact the PI, Dr. Gavin Fay, at gfay@umassd.edu. If you do not wish to contact Dr. Fay, please contact Department Chair Dr. Steve Cadrin scadrin@umassd.edu and/or SMAST Assistant Dean Mike Marino mmarino@umassd.edu. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.\nLab members who believe they have been subjected to any kind of discrimination that conflicts with the University of Massachusetts’ policies and/or the laws of the Commonwealth of Massachusetts’ should seek assistance from a supervisor or an HR representative. Information about the University of Massachusetts Dartmouth’s Equal Opportunity and Anti-Harassment policies, complaint procedures and form.\nConfidentiality: Please remember that by way of his position at the university, Dr. Fay is a mandated reporter under Title IX. This means that he is not allowed to keep matters falling under Title IX confidential, and is required to disclose these incidents to the administration. You are welcome to discuss matters with Dr. Fay, but please keep this in mind when doing so. Gavin will do his best to remind you of his responsibilities at the start of conversations anticipated to relate to these topics. If you would prefer to discuss incidents of harassment that fall under Title IX with a confidential source, you can contact David Gomes, UMass Dartmouth Director of Diversity and Inclusion.\nThis code of conduct applies to Fay lab spaces, but if you are being harassed by a member of the Fay lab or another member of the SMAST community outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by Fay lab members seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from the Fay lab based on their past behavior, including behavior outside Fay lab spaces and behavior towards people who are not in the Fay lab. The University Counseling Center provides a range of services to help students develop improved coping skills to address emotional, interpersonal and academic concerns.\nTo protect our team members from abuse and burnout, we reserve the right to reject any report we believe to have been made in bad faith. Reports intended to silence legitimate criticism may be deleted without response.\nThe above caveats noted, we will respect confidentiality requests for the purpose of protecting victims of abuse when possible. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of the Fay lab members or the general public. We will not name harassment victims without their affirmative consent.\n\n\n4.2.2 Consequences\nParticipants asked to stop any harassing behavior are expected to comply immediately.\nIf a participant engages in harassing behavior, Dr. Fay may take any action they deem appropriate, which includes referral to the Department Chair and Dean’s Office under the SMAST policy, and also including expulsion from all Fay lab spaces.\n\n\n4.2.3 Additional resources\nOther University of Massachusetts Board of Trustees and University documents:\n\nPolicy Against Intolerance\nPrinciples of Employee Conduct\nResolution in Support of Pluralism\nNon-Discrimination and Harassment Policy\nStatement of Affirmative Action and Equal Opportunity\nStatement on Cultural Diversity and Inclusion\nStatement on Gender Discrimination\nBully, Harassment and Violence\nStudent Conduct Policies and Procedures\nSexual Harassment Policy\nTitle IX and Sexual Assault/Harassment"
+    "objectID": "04-standard-operating-procedures.html#general-lab",
+    "href": "04-standard-operating-procedures.html#general-lab",
+    "title": "5  Standard Operating Procedures (SOP’s)",
+    "section": "5.1 General Lab",
+    "text": "5.1 General Lab\n\n5.1.1 Procedure to Make 1x Low Tris-EDTA (TE) Buffer pH 7.5 (from solution) GE-035.00\n\nSOP IDENTIFIER: GE-035.00\nORIGINAL SOP DATE: 7/20/2023\n# OF PAGES IN SOP: 3\nREVISION NUMBER: 00\nREVISION DATE: N/A\nWRITTEN BY: Erin LaCasella 7/20/2023\nREVIEWED BY: Amy Frey\nAPPROVED BY: Victoria Pease\nEFFECTIVE DATE:\n\nScope and Purpose: To make 1X Low TE buffer for DNA storage. TE buffer solubilizes DNA or RNA for storage and protects from degradation and has a lower salt content. Ethylenediaminetetraacetic Acid (EDTA) chelates metal ions (e.g. Mg 2+) which normally cause degradation.\nSummary of Method:  Buffer is made by combining pre-made solutions of: 1M Tris-HCl (pH 7.5) and 0.5 M Ethylenediaminetetraacetic Acid (EDTA, pH 8.0).\nHealth and Safety Warnings:\n• This procedure uses chemicals that may be harmful. Please read Appendix A before performing this protocol.\n• Wear gloves, lab coat, closed-toe shoes and safety glasses.\n\nQuality Control:\n• Store in the refrigerator in a tightly closed container\n• Perform procedure in general lab\n\nEquipment and Supplies:\n1. 250 mL (or 500 mL) Graduated cylinder\n2. 250 mL (or 500 mL) orange screw cap bottle\n3. Tris-HCl (Invitrogen Ultrapure 1M Tris-HCl pH 7.5)\n4. EDTA (Invitrogen Ultrapure 0.5M EDTA, pH8.0)\n5. MilliQ water (or Invitrogen Ultrapure water)\n\nProcedures: To make 250 mL, combine reagents in a graduated cylinder:\n1. Add 2.5 mL of 1M Tris-HCl pH 7.5 (pre-made solution)\n2. Add 50 uL of 0.5M EDTA pH 8.0 (pre-made solution)\n3. Add MilliQ water to total 250 mL\n4. Pour into the orange screw cap bottle\n5. Mix the solution by carefully inverting the bottle a few times\n6. Label the bottle and store in refrigerator\n\nWaste Management: If there are questions on handling chemicals contact the Safety Officer or Lab Manager. Spills, cuts or other accidents should be reported to the Safety Officer and Lab Manager.\nReferences: For SDS information, go to C:\\UsersGenetics SDS (see Lab Manager for designated computers).\nHazardous substance information: \nhttps://epa.gov/ceppo/pubs/title3.pdf\nAppendix A: Chemical Health and Safety Warnings\nTE Buffer (Tris and EDTA)\nCan cause damage to the kidneys, central nervous system and reproductive systems. It can cause skin, eye, digestive tract and respiratory irritation as well.\nFirst Aid\nEye contact: flush eyes with water for at least 15 minutes while occasionally opening and closing eyelids. Seek medical attention immediately.\nSkin: wash skin with lots of water and soap. Wash clothes before wearing them again and see a doctor if further skin irritation occurs.\nIngestion: drink 2-4 cups of milk if conscious and then seek medical aid.\nInhalation: seek fresh air immediately. If user has trouble breathing, give him/her oxygen and seek medical attention.\nTris\nIrritating to the eyes, skin, mucous membrane and the upper respiratory tract. Signs and symptoms of exposure include watery eyes and rough, red skin. When inhaled, it can cause irritation, cough and shortness of breath. Exposing the substance into excessive heat may cause thermal decomposition and produce toxic fumes like carbon monoxide. It is incompatible with oxidizing materials.\nFirst Aid\nEyes: flush with water for 15 minutes.\nSkin: flush with water and wash thoroughly with soap and water. Remove contaminated clothing. If irritation persists, seek medical advice.\nInhalation: move victim to fresh air.\nIngestion: drink water and seek immediate medical attention.\nEDTA\nIrritating to the eyes, skin and the mucous membrane of the upper respiratory tract. It is flammable –do not expose to heat or flame. Flame caused by EDTA can be extinguished by carbon dioxide, foam, water or dry chemicals. EDTA has emerged as a persistent organic pollutant.\nFirst Aid\nSkin: rinse with water immediately\nEye contact: wash with water immediately and contact a physician right away."
   },
   {
-    "objectID": "03-code-of-conduct.html#license-and-attribution",
-    "href": "03-code-of-conduct.html#license-and-attribution",
-    "title": "4  Code of Conduct",
-    "section": "4.3 License and attribution",
-    "text": "4.3 License and attribution\nThis anti-harassment policy is based on the example policy created by the Geek Feminism community. It has also been written to fall within the SMAST Code of Conduct and Diversity Statement, and has been reviewed by the SMAST Dean’s office and UMass Dartmouth Departments of Human Resources and Office of Diversity Equity and Inclusion."
+    "objectID": "04-standard-operating-procedures.html#pre-pcr-lab",
+    "href": "04-standard-operating-procedures.html#pre-pcr-lab",
+    "title": "5  Standard Operating Procedures (SOP’s)",
+    "section": "5.2 Pre-PCR lab",
+    "text": "5.2 Pre-PCR lab\n\n5.2.1 Procedure to extract DNA from Tissue using NucleoMag bead kit"
   },
   {
-    "objectID": "04-onboarding.html#myumassd-smast-occupants-page",
-    "href": "04-onboarding.html#myumassd-smast-occupants-page",
-    "title": "5  Onboarding",
-    "section": "5.1 MyUMassD SMAST Occupants page",
-    "text": "5.1 MyUMassD SMAST Occupants page\nSMAST related resources, forms, policies, procedures, calendars, as well as job aids are housed on the SMAST Occupants page of your myUMassD portal. For everyone in the SMAST community, a link to the SMAST Occupants page will appear under the “MyUMassD Sites” list on the right-hand side of the myUmassD landing page (if this is not visible to you, let Ashleigh know)."
+    "objectID": "04-standard-operating-procedures.html#post-pcr-lab",
+    "href": "04-standard-operating-procedures.html#post-pcr-lab",
+    "title": "5  Standard Operating Procedures (SOP’s)",
+    "section": "5.3 Post-PCR lab",
+    "text": "5.3 Post-PCR lab"
   },
   {
-    "objectID": "04-onboarding.html#new-employee-and-student-onboarding-checklists",
-    "href": "04-onboarding.html#new-employee-and-student-onboarding-checklists",
-    "title": "5  Onboarding",
-    "section": "5.2 New employee and student onboarding checklists",
-    "text": "5.2 New employee and student onboarding checklists\nA work in progress.\n\nIT Help for new students and staff/faculty\nHere, you can navigate to the “Are you new?” section and select either student or staff."
+    "objectID": "04-standard-operating-procedures.html#archive-sops",
+    "href": "04-standard-operating-procedures.html#archive-sops",
+    "title": "5  Standard Operating Procedures (SOP’s)",
+    "section": "5.4 Archive SOP’s",
+    "text": "5.4 Archive SOP’s"
   },
   {
-    "objectID": "04-onboarding.html#individual-developmentmentoring-plans",
-    "href": "04-onboarding.html#individual-developmentmentoring-plans",
-    "title": "5  Onboarding",
-    "section": "5.3 Individual Development/Mentoring plans",
-    "text": "5.3 Individual Development/Mentoring plans\nWithin the first few weeks of joining the Fay Lab, you should work with Gavin to develop a plan outlining your short, medium, and long term goals. More on individual developing plans can be found in Chapter @ref(expectations)."
+    "objectID": "04-standard-operating-procedures.html#next-generation-sequencing-sops",
+    "href": "04-standard-operating-procedures.html#next-generation-sequencing-sops",
+    "title": "5  Standard Operating Procedures (SOP’s)",
+    "section": "5.5 Next Generation Sequencing SOP’s",
+    "text": "5.5 Next Generation Sequencing SOP’s\n###Procedure to quantify ## Contributing to regional publications\n[more to come on engaging with our local press, etc.]"
   },
   {
-    "objectID": "04-onboarding.html#timesheets",
-    "href": "04-onboarding.html#timesheets",
-    "title": "5  Onboarding",
-    "section": "5.4 Timesheets",
-    "text": "5.4 Timesheets\n(graduate students do not need to complete timesheets)\nYou can access you timesheets through the HR portal in. Navigate to Quicklaunch and click on HRDirect. You need to enter your UMassD user ID, password, and select the Dartmouth campus. If this is the first time you do this, you will also need to verify your account through DUO authorization. We recommend using the DUO app on your phone. You can choose to have push access, or send codes. After your initial setup, you can also opt to go through DUO 1/month (instead of every time you login to HRDirect).\nEven if you are salaried, it’s still important to keep track of and submit your vacation and sick time!"
-  },
-  {
-    "objectID": "04-onboarding.html#facilities",
-    "href": "04-onboarding.html#facilities",
-    "title": "5  Onboarding",
-    "section": "5.5 Facilities",
-    "text": "5.5 Facilities\nCurrently all work in the lab is being performed remotely due to the COVID-19 pandemic. All access to SMAST facilities requires prior approval from Gavin, Mike Marino, and Eric Lyonnais. No work is to be performed on site until further notice.\n\n5.5.1 Office space\nOur physical lab space is in the SMAST-East (new) building. The lab is room 245. Ashleigh’s desk is in the lab. Gavin’s office is room 228.\nEveryone in the lab is provided with desk space. Lab members sit either in the lab itself, or in the shared graduate student cubicle space and shared postdoc offices. Gavin encourages people to set up and work where is most comfortable. Graduate students should make use of their allocated space in the shared area but can do computational work in the lab area.\nLab meetings are held either in the lab, or in one of the SMAST-E conference rooms.\n\n\n5.5.2 Key card building & room access\nAccess to the SMAST building, and to individual lab spaces within the building is through your UMass Pass keycard. Typically, you will have access to the SMAST gate, SMAST East building, the lab space (room #245), classrooms, and if you are a grad student/postdoc you will have access to the relevant shared office space.\nThe necessary building access forms can be found on the SMAST Occupants page which need to be filled out and approved and signed by Gavin before submitting to Mike Marino and Eric Lyonnais.\n\n\n5.5.3 Parking and transportation:\nParking at either of the SMAST buildings is free and no parking pass is required. Parking on the main UMassD campus requires a digital parking pass. If you are staff this pass is free, there is a fee for students. Full details for campus parking policies and procedures are on the UMassD parking webpage. Note that there is limited short-term/temporary parking available on campus so you may feel it’s not necessary to obtain a campus parking pass."
-  },
-  {
-    "objectID": "05-expectations.html#working-hours",
-    "href": "05-expectations.html#working-hours",
+    "objectID": "05-analysis-protocols.html#working-hours",
+    "href": "05-analysis-protocols.html#working-hours",
     "title": "6  Expectations",
     "section": "6.1 Working hours",
     "text": "6.1 Working hours\nGavin generally does not hold people to working a fixed schedule, or to be in the office for a certain schedule. As adults, we should all set the working schedule that is the right fit for us, and it is likely that what this ‘fit’ is will change over the course of the time you are in the lab. Depending on the nature of your appointment, there may be specific hours that will need to be worked and you should work with your main collaborator to outline these.\nGavin generally does not work evenings or on weekends, and does not expect that people in the lab are available at these times. Lab members should also not expect others to be available during these times.\nGraduate students are generally funded on annual research assistantship (RA) stipends. The RA contracts state that this stipend is for 20 hrs of work per week during the academic year and 40 hrs per week during summer to support full time study in the academic program. Most usually, students on RAships are being paid from a research grant where the focus of the grant is the topic the student is working on for their thesis research, so there is overlap here. We believe that training to do the research is part of the job, so this would include courses and additional time to read/learn methods, software too. Some people find that counting ‘billable hours’ is productive for them as it helps them keep accountable to themselves. Others do not find this method useful. Regularly assess what works best for you.\nFull time is enough, and we do not expect team members to work nights and weekends, though do not enforce a particular working hours schedule because students should feel flexible enough to create a work schedule that works for them. Lab members should not expect others to be available during evenings and weekends. There is value to interacting with others as part of your work, and we do expect you will be available during normal working hours for at least some of the time during the week. We also recognize that there will occasionally be times where there is a need to work more to meet a deadline, but this should be the exception - an expectation of overwork is not to be normalized."
   },
   {
-    "objectID": "05-expectations.html#email",
-    "href": "05-expectations.html#email",
+    "objectID": "05-analysis-protocols.html#email",
+    "href": "05-analysis-protocols.html#email",
     "title": "6  Expectations",
     "section": "6.2 Email",
     "text": "6.2 Email\nIn the lab, we communicate via email. You should therefore check your email at least once a day during the normal work week. We also make use of Google Docs and issues on GitHub to record institutional knowledge and hold conversations regarding research tasks. Note that being available does not mean that you are available 24/7 - this is not expected. Do not expect responses to emails after regular business hours on weekdays, or on weekends. However, because we recognize that lab members should be able to create a working schedule that is right for them, lab members should not be penalized for sending communication during these times."
   },
   {
-    "objectID": "05-expectations.html#attendance-at-regularly-scheduled-events",
-    "href": "05-expectations.html#attendance-at-regularly-scheduled-events",
+    "objectID": "05-analysis-protocols.html#attendance-at-regularly-scheduled-events",
+    "href": "05-analysis-protocols.html#attendance-at-regularly-scheduled-events",
     "title": "6  Expectations",
     "section": "6.3 Attendance at regularly scheduled events",
     "text": "6.3 Attendance at regularly scheduled events\nAttendance is expected at:\n\nDepartmental seminars\n\nWeekly lab meetings / quantfish woRkshops\n\nIndividual meetings with Gavin to discuss and work on your research\n\nSMAST thesis and proposal defenses\n\nSMAST all hands meetings / start-and-end of semester events\n\nAnnual UMass Intercampus Marine Science graduate research symposium"
   },
   {
-    "objectID": "05-expectations.html#outreach",
-    "href": "05-expectations.html#outreach",
+    "objectID": "05-analysis-protocols.html#outreach",
+    "href": "05-analysis-protocols.html#outreach",
     "title": "6  Expectations",
     "section": "6.4 Outreach",
     "text": "6.4 Outreach\nWe share our learning and time with others beyond our lab, knowing that this builds community and ultimately improves both the quality and impact of our science. This doesn’t mean individuals do everything, however. We take on leadership roles within SMAST and the university, are supportive of others in our community during their milestones, actively participate in SMAST events (e.g. the IMS graduate research symposium), and perform outreach. Ask others in the lab about activities they are part of, and work with Gavin when crafting your mentoring plan to identify outreach strategy that meshes well with your goals."
   },
   {
-    "objectID": "05-expectations.html#expectations-for-the-pi",
-    "href": "05-expectations.html#expectations-for-the-pi",
+    "objectID": "05-analysis-protocols.html#expectations-for-the-pi",
+    "href": "05-analysis-protocols.html#expectations-for-the-pi",
     "title": "6  Expectations",
     "section": "6.5 Expectations for the PI",
     "text": "6.5 Expectations for the PI\nGavin (as PI) will (at a minimum) provide:\n\nTechnical support for analysis (e.g., access to computing, training on techniques)\n\nPositive feedback & constructive criticism on work\n\nProfessional career support\n\nSupport for non-technical aspects of making career progress\n\nRegular meetings (every two weeks) to discuss work & maintain progress on goals\n\nProvide clear and honest appraisal of your funding situation"
   },
   {
-    "objectID": "05-expectations.html#graduate-students",
-    "href": "05-expectations.html#graduate-students",
+    "objectID": "05-analysis-protocols.html#graduate-students",
+    "href": "05-analysis-protocols.html#graduate-students",
     "title": "6  Expectations",
     "section": "6.6 Graduate students",
     "text": "6.6 Graduate students\nYou are responsible for your degree. This means you need to stay on top of program and university deadlines, requirements, etc. See Chapter @ref(umassd-resources) & Chapter @ref(smast-resources) for links to resources.\nBefore registering for each semester, you are required to meet with your advisor (Gavin) to review your tracking sheet (SMAST academic milestone document) and discuss plans for the forthcoming semester (classes, activities, etc.).\nCourse of study: Work with Gavin when crafting and revisiting your individual mentoring plans to identify classes that you will take during your academic program. Look beyond those offered at SMAST to include elsewhere at UMassD, the UMass system, and also at other institutions (consider the value of a semester exchange). A list of classes that lab members have taken, and suggested course of study schedule for Fay lab grad students can be found in Chapter @ref(courses).\nWe schedule regular individual meetings with Gavin throughout the year. At a minimum during the semester these will take place every two weeks, although there may be times when more regular meetings are needed. Meetings are a chance for you to get focused time with Gavin to discuss and work on your research. Thus they are your time, not Gavin’s. Come with an agenda with a list of things that you want to accomplish and work on during that time.\nWe share our research at local, national, and international meetings, and publish our findings in the scientific literature. Gavin strives to provide financial support for grad students to attend at least one major conference per year. You should expect to give a presentation (a poster or a talk) on your work at these.\n\n6.6.1 Funding\nGavin does not typically accept students into the lab without being able to guarantee at least 2 years of full funding. Students are encouraged to seek and apply for extramural funding to support their work. This includes scholarships and fellowships to pay for salary, but also smaller grants for travel, workshop attendance, or research costs. There are many opportunities out there, particularly for students. Some resources are outlined in Chapter @ref(funding)."
   },
   {
-    "objectID": "05-expectations.html#undergraduate-students",
-    "href": "05-expectations.html#undergraduate-students",
+    "objectID": "05-analysis-protocols.html#undergraduate-students",
+    "href": "05-analysis-protocols.html#undergraduate-students",
     "title": "6  Expectations",
     "section": "6.7 Undergraduate students",
     "text": "6.7 Undergraduate students\nYou will most likely be working with one of the lab’s research team as your primary research supervisor. The grad student or postdoc you are working with on your project will be your primary source of contact and you should work with them to establish and define your work schedule, protocols for your work, and to ensure you have the necessary equipment to perform your work tasks.\nAlthough the grad student / postdoc is your primary contact, always feel like you can reach out to both Gavin as lab PI and Ashleigh as lab manager. We are excited to help you use your position in the lab to further your career goals and want to work with you to help you achieve them.\nIf you are an hourly worker (either federal work study or grant supported) then it is critical that you complete your timesheets through HR Direct with your hours worked, so that you can get paid. Please submit your electronic timesheet each week by noon on Friday, to allow time for Gavin to approve. Alert your research supervisor AND Gavin as soon as possible if there are any complications with regard to pay. We want you to be compensated for your work in a timely fashion."
   },
   {
-    "objectID": "05-expectations.html#postdoctoral-researchers",
-    "href": "05-expectations.html#postdoctoral-researchers",
+    "objectID": "05-analysis-protocols.html#postdoctoral-researchers",
+    "href": "05-analysis-protocols.html#postdoctoral-researchers",
     "title": "6  Expectations",
     "section": "6.8 Postdoctoral researchers",
     "text": "6.8 Postdoctoral researchers\nPostdocs are independent researchers and likely will have significant collaboration with researchers at other institutions as part of their research and position. Postdocs in the lab may also be sharing time between SMAST and another opportunity.\nIn general, postdocs are expected to:\n\nBe present and involved in lab meetings, workshops, campus seminars, and conferences.\n\nProvide mentorship, technical support, and assistance to other lab members\n\nCommunicate both successes and sticking points on a regular basis with the PI\n\nWork independently and collaboratively\n\nParticipate in professional development opportunities\n\nLead and assist in designated research projects\n\nDevelop and submit proposals to fund future research\n\nOn day 1 of his postdoc at NOAA NEFSC, Gavin’s postdoc advisor said “Your first job is to look for your next job”. While a postdoctoral position is a scienctific research position, it is also a training opportunity and a step to something else, and a full-time permanent position beats a postdoc. Do not feel bad or awkward about pursuing (and taking) employment opportuntities, and also training opportunities that help you move toward that next step. We want you to succeed!\n[As benefited employees at UMass Dartmouth, postdocs are able to enroll in a limited amount of graduate coursework as part of their benefits package. Talk with Gavin about this.]\nPostdocs will likely have active roles on advisory working groups or other professional service roles. If opportunities are not immediately apparent through your funded research, then Gavin can help strategize about where is a useful space to target your involvement."
   },
   {
-    "objectID": "05-expectations.html#research-staff",
-    "href": "05-expectations.html#research-staff",
+    "objectID": "05-analysis-protocols.html#research-staff",
+    "href": "05-analysis-protocols.html#research-staff",
     "title": "6  Expectations",
     "section": "6.9 Research staff",
     "text": "6.9 Research staff\nMuch like post-docs, research staff operate as independent and collaborative researchers on assigned projects. As these positions are often working directly alongside your mentor/direct collaborator on particular lab projects, meetings may be more frequent than those with others in the lab. Weekly meetings should have clear agendas, and can often be used as collaborative working time to make progress on specific tasks.\nIn general, staff are expected to:\n\nBe present and involved in lab meetings, workshops, campus seminars, and conferences\n\nProvide technical support and assistance to other lab members\nCommunicate both successes and sticking points on a regular basis with PI\nWork independently and collaboratively\nLead and assist in designated research projects\nParticipate in professional development opportunities (i.e., workshops, conferences, submitting previous position manuscripts [without detracting from new position])\nSeek and pursue new funding opportunities when appropriate (this will likely be dependent on your timeline)\nProduce expected output from assigned grants\nBe flexible! Additional projects may be assigned to give additional funding for your position\n\nServe as a role model and go-to resource for other members of the lab\n\nResearch staff positions may be somewhat flexible in scope. For example, the position may include some lab management, leadership, and communication responsibilities. Exact set of responsibilities and duties will be clearly defined in your position description and expectations agreed on in your work plan."
   },
   {
-    "objectID": "06-offboarding.html#exit-interview",
-    "href": "06-offboarding.html#exit-interview",
-    "title": "7  Offboarding",
-    "section": "7.1 Exit Interview",
-    "text": "7.1 Exit Interview\nSet up a dedicated time to meet with Gavin and/or your main collaborator (for undergraduate researchers) to talk about your time in the lab, and to go through the below checklist to make sure these have been done. Besides the checklist, things to talk about include the best part of being in our team, whether you got the support you needed and what could we improve for mentoring and training someone in your role in the future. Checklist for students, staff, and post docs"
+    "objectID": "06-onboarding.html#myumassd-smast-occupants-page",
+    "href": "06-onboarding.html#myumassd-smast-occupants-page",
+    "title": "7  Onboarding",
+    "section": "7.1 MyUMassD SMAST Occupants page",
+    "text": "7.1 MyUMassD SMAST Occupants page\nSMAST related resources, forms, policies, procedures, calendars, as well as job aids are housed on the SMAST Occupants page of your myUMassD portal. For everyone in the SMAST community, a link to the SMAST Occupants page will appear under the “MyUMassD Sites” list on the right-hand side of the myUmassD landing page (if this is not visible to you, let Ashleigh know)."
   },
   {
-    "objectID": "06-offboarding.html#project-documentation",
-    "href": "06-offboarding.html#project-documentation",
-    "title": "7  Offboarding",
-    "section": "7.2 Project Documentation",
-    "text": "7.2 Project Documentation\nProject work should be hosted either in a github repository linked to from the faylab account, or saved on the lab_fay server drive (prefereably both).\nEach project should have an easily found README text file that provides information for others so they can navigate and use your work, and give contact information for authors (and any data creators/use restrictions if propietary data). Ideally, the README should also include links to publications and presentations from the work."
+    "objectID": "06-onboarding.html#new-employee-and-student-onboarding-checklists",
+    "href": "06-onboarding.html#new-employee-and-student-onboarding-checklists",
+    "title": "7  Onboarding",
+    "section": "7.2 New employee and student onboarding checklists",
+    "text": "7.2 New employee and student onboarding checklists\nA work in progress.\n\nIT Help for new students and staff/faculty\nHere, you can navigate to the “Are you new?” section and select either student or staff."
   },
   {
-    "objectID": "06-offboarding.html#publications-and-presentations",
-    "href": "06-offboarding.html#publications-and-presentations",
-    "title": "7  Offboarding",
-    "section": "7.3 Publications and Presentations",
-    "text": "7.3 Publications and Presentations\nEnsure that publications and presentations from your projects are archived in the appropriate folder on the lab Google Drive."
+    "objectID": "06-onboarding.html#individual-developmentmentoring-plans",
+    "href": "06-onboarding.html#individual-developmentmentoring-plans",
+    "title": "7  Onboarding",
+    "section": "7.3 Individual Development/Mentoring plans",
+    "text": "7.3 Individual Development/Mentoring plans\nWithin the first few weeks of joining the Fay Lab, you should work with Gavin to develop a plan outlining your short, medium, and long term goals. More on individual developing plans can be found in Chapter @ref(expectations)."
   },
   {
-    "objectID": "06-offboarding.html#data",
-    "href": "06-offboarding.html#data",
-    "title": "7  Offboarding",
-    "section": "7.4 Data",
-    "text": "7.4 Data\nData used in support of your projects should be:\n\nSaved in appropriate, non-proprietary format with accompanying metadata\nEither in a public archive (e.g., the github repo or another public archive), or if data is proprietary, a ‘snapshot’ version of the data used in the project should be saved in a private repository accessible to lab members. Alternatively, data could be saved on the lab_fay server drive with appropriate documentation.\nLinked and briefly described in the project README."
+    "objectID": "06-onboarding.html#timesheets",
+    "href": "06-onboarding.html#timesheets",
+    "title": "7  Onboarding",
+    "section": "7.4 Timesheets",
+    "text": "7.4 Timesheets\n(graduate students do not need to complete timesheets)\nYou can access you timesheets through the HR portal in. Navigate to Quicklaunch and click on HRDirect. You need to enter your UMassD user ID, password, and select the Dartmouth campus. If this is the first time you do this, you will also need to verify your account through DUO authorization. We recommend using the DUO app on your phone. You can choose to have push access, or send codes. After your initial setup, you can also opt to go through DUO 1/month (instead of every time you login to HRDirect).\nEven if you are salaried, it’s still important to keep track of and submit your vacation and sick time!"
   },
   {
-    "objectID": "06-offboarding.html#code",
-    "href": "06-offboarding.html#code",
-    "title": "7  Offboarding",
-    "section": "7.5 Code",
-    "text": "7.5 Code\nCode used or developed for the project should be:\n\ncomplete and well-documented, including information in a README about what each file does and workflow to run the code\nSaved on the lab_fay section of the storage server, and also preferably available on github in a public repository."
-  },
-  {
-    "objectID": "06-offboarding.html#timelines-for-publications",
-    "href": "06-offboarding.html#timelines-for-publications",
-    "title": "7  Offboarding",
-    "section": "7.6 Timelines for publications",
-    "text": "7.6 Timelines for publications\nScience is not finished until it has been communicated. Hopefully, you will publish your results in the peer-reviewed literature so that others can learn and build from your work. During your exit interview, make a plan with Gavin for remaining publications, including a timeline for submission."
-  },
-  {
-    "objectID": "06-offboarding.html#turning-in-equipment",
-    "href": "06-offboarding.html#turning-in-equipment",
-    "title": "7  Offboarding",
-    "section": "7.7 Turning in equipment",
-    "text": "7.7 Turning in equipment\nEnsure any lab equipment (e.g. computer and peripherals) you have been using has been returned to the lab, office furniture is present and accounted for, and that tagged equipment has been logged in with Ashleigh. Make sure any problems with equipment are documented and that Gavin and Ashleigh have been made aware of them."
-  },
-  {
-    "objectID": "06-offboarding.html#lab-library",
-    "href": "06-offboarding.html#lab-library",
-    "title": "7  Offboarding",
-    "section": "7.8 Lab library",
-    "text": "7.8 Lab library\nReturn all books checked out from the lab library."
-  },
-  {
-    "objectID": "06-offboarding.html#removing-key-card-access",
-    "href": "06-offboarding.html#removing-key-card-access",
-    "title": "7  Offboarding",
-    "section": "7.9 Removing key card access",
-    "text": "7.9 Removing key card access\nKey card access to the SMAST facilities will be terminated at the end of your contract. During your exit interview, discuss with Gavin whether modifications need to be made to this timeline."
-  },
-  {
-    "objectID": "07-funding.html",
-    "href": "07-funding.html",
-    "title": "8  Funding",
-    "section": "",
-    "text": "Gavin does not typically accept students into the lab without being able to guarantee at least 2 years of full funding.\nFunded position openings in the lab will be posted through the lab website, twitter account, and via other distribution feeds (e.g. EcoLog).\nGavin encourages all students to apply for external funding through graduate scholarships. Some relevant ones include the NMFS-Sea Grant Graduate Fellowships in Population and Ecosystem Dynamics, NSF Graduate Research Fellowship Program, Ford Foundation, NOAA Nancy Foster scholarships, and Margaret A. Davidsonn Graduate Fellowships, though there are many other opportunities (more provided in the link below).\nHere is Gavin’s living document of recurring funding opporunities Google Doc. Gavin not only encourages students to obtain additional funding, but also staff and post-docs. And for all to apply for travel grants when attending conferences, where applicable.\nThis resource is updated fairly regularly, and largely contains resources to fund yourself/research. It includes the opportunity name, institituion, link, grad/undergrad/postdoc/all/early career/etc designation, the deadline, and important notes.\nGavin will also share funding opportunites as they come up, either to the group or in individual meetings."
-  },
-  {
-    "objectID": "08-communication.html#inclusive-science-communication",
-    "href": "08-communication.html#inclusive-science-communication",
-    "title": "9  Communication",
-    "section": "9.1 Inclusive science communication",
-    "text": "9.1 Inclusive science communication\nThis Google Doc resource created and curated by Dr. Sunshine Menezes, the ED of the Metcalf Institute at URI, covers a wide range of topics related to inclusive science communication, education, and public engagement with STEM topics. We suggest you take a look!"
-  },
-  {
-    "objectID": "08-communication.html#curriculum-vitae",
-    "href": "08-communication.html#curriculum-vitae",
-    "title": "9  Communication",
-    "section": "9.2 Curriculum Vitae",
-    "text": "9.2 Curriculum Vitae\nKeep your CV up to date. We share our CVs within the group in this Google Drive folder, both to give each other ideas about what to include, but also having these in one place makes it easier for Gavin and others to reference information from them when needed.\nHere is a link to a lab-chat issue on CV building based on a 05/05/2020 lab meeting.\n\n9.2.1 Google Scholar profiles\nHaving a Google Scholar profile is a very easy way to curate your web presence and have a place where people can find you and your published papers and reports.\nWe recommend everyone sets up a Google Scholar profile as soon as they have a paper or technical report. It takes about 5-10 minutes to set up, and one advantage is that Google Scholar self-updates and will add your papers and citations as you publish and people use your work. This is a really easy step to creating a web presence without having to set up a website."
-  },
-  {
-    "objectID": "08-communication.html#personal-websites",
-    "href": "08-communication.html#personal-websites",
-    "title": "9  Communication",
-    "section": "9.3 Personal Websites",
-    "text": "9.3 Personal Websites\nWhy have your own website?\n\nPeople will Google you. They might as well see what you want them to.\nGive people an easy way to find you and your work.\n\nOne way to do this is a personal website. This doesn’t have to be extensive, but can be a good way to curate your web presence.\nThere are heaps of tools out there to create and publish websites. Our recommendation is to choose something that it is easy to update, and fun / interesting for you to use. Many options are free.\nSome options for creating sites include: GoogleSites, Weebly, Squarespace, WordPress, R Markdown, GitHub.\nWhat should you include?\nUltimately this is up to you and how you would like to present yourself and your work. But some common things you could include are: not an exhaustive list\n\nBioSketch\nResearch interests/overview\nProjects\nPublications\nCV\nBlog posts\nContact info\n\nAn example website (though many amazing others exist and you should check those out): Ashleigh’s webpage using the free version of Weebly"
-  },
-  {
-    "objectID": "08-communication.html#twitter",
-    "href": "08-communication.html#twitter",
-    "title": "9  Communication",
-    "section": "9.4 Twitter",
-    "text": "9.4 Twitter\nTwitter is a great tool for interacting with others about your science. It is also a great platform for learning about new research and papers, finding out about jobs and fellowships, learning and discussing methods, discussing topics about how we do science, professional development, mental health and expectations around science and graduate school, and is a great venue for bringing ones whole self to the science. etc. Most of us have our own personal Twitter accounts and use them to varying degress. Everyone in the lab can post to the lab Twitter account too. Ask Ashleigh if you are interested in doing a takeover of thefaylab account for a week (which could also be a chance to dip your toe in to Twitter if you don’t use it).\n[link to paper on use of twitter for rstats!]"
-  },
-  {
-    "objectID": "08-communication.html#social-media",
-    "href": "08-communication.html#social-media",
-    "title": "9  Communication",
-    "section": "9.5 Social Media",
-    "text": "9.5 Social Media\n[Link to papers on social media in fisheries ]\nAs you know, there are many social media platforms, and many (all?) of these are being used in some way for science communication. This includes but not limited to:\n\nTwitter\nInstagram\nFacebook\nLinkedIn\nTikTok\nYoutube\nResearchgate\n\nAll have a different purpose and type of engagement. Think deliberately about how (and if) you want to use these tools. Using social media as part of your science communication portfolio can be useful and is popular, but it is not a requirement to be a successful scientist."
-  },
-  {
-    "objectID": "08-communication.html#contributing-to-regional-publications",
-    "href": "08-communication.html#contributing-to-regional-publications",
-    "title": "9  Communication",
-    "section": "9.6 Contributing to regional publications",
-    "text": "9.6 Contributing to regional publications\n[more to come on engaging with our local press, etc.]"
-  },
-  {
-    "objectID": "09-academics.html#ms-students",
-    "href": "09-academics.html#ms-students",
-    "title": "10  Academics",
-    "section": "10.1 MS students",
-    "text": "10.1 MS students\nThesis Proposal: MS students in the Fay lab prepare a thesis proposal during their first year to identify and refine their thesis research topic ideas and outline methods that will be used to address the research questions. The proposal also serves as a guiding document for your initial committee meeting(s). Scope and plans for the MS thesis research will be developed through your meetings with Gavin and with the project team (for students whose work is being funded by a research grant). Your thesis proposal should contain a literature review, identification of research questions, an overview of the methods that will be used, and description of expected results and relevance/significance of the research. Aim for the proposal to be about 8 pages of text. While not a formal requirement for the IMS program, a MS thesis proposal serves to clarify and outline expectations for the degree for both the student and the thesis committee, and serves as a blueprint for building out the thesis itself (indeed you may likely re-use some of the text later). Thesis proposals written by other lab members are good examples of how these documents can be structured.\nThesis Committee: Forming your thesis committee: Your MS thesis committee serves as your guidance team during your research, and should be viewed as colleagues and collaborators. While building your proposal, discuss with Gavin who should be on the committee. Three committee members is the usual size, though sometimes students will have a fourth member. Generally in our program a committee will be made up of your advisor (Gavin), an additional UMassD faculty member, and an external member (often an agency collaborator on the project, e.g. at NOAA NMFS). See the official university guidelines for more specifics [link here].\nMS Thesis: [guidance on thesis structure to come]\nRemember, not everything will go to plan and your interests and findings may change. Content of theis proposals is not set in stone and can always be revised with communication and collaboration with the committee. View proposals as items that help you build your scientific products rather than evaluative procedures that need to be checked off."
-  },
-  {
-    "objectID": "09-academics.html#ph.d.-students",
-    "href": "09-academics.html#ph.d.-students",
-    "title": "10  Academics",
-    "section": "10.2 Ph.D. students",
-    "text": "10.2 Ph.D. students\nPhD dissertations in the Fay lab tend to comprise chapters that will form ~4 publications. Gavin encourages students to think about dissertation chapters as publishable units. In the disseration, these 4 chapters will be accompanied by a general Introduction, and a concluding Synthesis chapter that ties the work presented in the dissertation together under the overarching research theme and goals.\nMilestones\n\n10.2.1 Pre-proposal (or “Preposal”, copyright M. Winton)\nPhD students in the Fay lab prepare a pre-proposal during their first year to outline the overall goals and themes of the dissertation research topic, and identify the individual research chapter topic questions. The pre-proposal serves as a guiding document and conversation starter for your initial committee meeting. Scope and plans for the thesis research will be developed through your meetings with Gavin and with the project team (for students whose work is being funded by a research grant). Your pre-proposal should contain a literature review, identification of research questions and potential chapter units, an overview of the methods that will be used to address the research questions, proposed course of study (coursework, etc.), and relevance/significance of the research. Aim for the pre-proposal to be about 5 pages of text. A 2-page precis version is useful when initially talking with committee members. While not a formal requirement for the IMS program, a pre-proposal serves to clarify student interests and goals for the degree for both the student and the thesis committee, and serves as a blueprint for building out the preliminary work and the dissertation proposal (indeed you may likely re-use some of the text later).\n\n\n10.2.2 Dissertation Committee\nYour PhD thesis committee serves as your guidance team during your research, and should be viewed as colleagues and collaborators. There is a required minimum for interaction with the committee, but you should add to this. After you have formed the committee, it is advisable to hold a committee meeting at least once a year, but it is encouraged to continuingly interact with committee members.\nWhile building your pre-proposal, discuss with Gavin who should be on the committee. For PhD committees, four members is the usual size, though often students will have a fifth member. Generally in our program a committee will be made up of your advisor (Gavin), two additional UMassD faculty members, and 1-2 external members (e.g. agency collaborators on the project funding the research, e.g. collaborators at NOAA NMFS). Aim to hold your first committee meeting no later than during the 3rd semester of your program. See the official university guidelines for more specifics [link here].\n[something on what is expected at committee meetings, e.g. presentation]\n\n\n10.2.3 Comprehensive Exams\nAs detailed in the IMS policy, PhD students undertake a two-part comprehensive examination, a 2-day written exam, and a public presentation and defense of the proposal. The written exam is taken once students have completed their coursework requirements (say after the 4th or before/during the 5th semester). Questions on the written exam include both open and closed book sections and will cover coursework and questions related to your field and dissertation topics. The proposal defense is usually scheduled the semester following successful completion of the written exam. Full requirement details for the exams are in the IMS policy. The comprehensive exam will be planned in coordination with Gavin, and the written exam requires 1 month preparation time (1 month of full-time work). See guidance below. [Written exam format & guidance] [Proposal defense format & guidance]\n\n\n10.2.4 Dissertation Proposal\nA proposal describing the research that will comprise the dissertation is a required, formal part of the academic program. Proposals should describe the goals and themes of the research to be conducted, and its context within current state of knowledge. The proposal should outline the research questions that each chapter will address, and give a description of the methods that will be used in each. The proposal serves as a guiding document for the remainder of your program and is the document that you and your committee will use to agree on the scope of work to be completed to fulfill the degree requirements. Your thesis proposal should contain a literature review, identification of research questions, an overview of the methods that will be used for each of these, and description of expected results and relevance/significance of the research. Aim for the proposal to be about 15 pages of text. Detail of planning for each chapter will not be as comprehensive (it is expected that later chapters may not be as fleshed out), but the proposal should provide enough detail of what the student will do for the committee to evaluate whether the scope of work is sufficient (and likely make recommendations for reducing or refining this). It is common for students to have completed or be close to having completed work for at least one of the chapters by the time of defending the proposal.\nUltimately, the proposal serves to clarify and outline expectations for the degree for both the student and the thesis committee, and serves as a blueprint for building out the thesis itself (indeed you will re-use some of the text later).\nPhD Thesis: [guidance on thesis structure to come]\nRemember, not everything will go to plan and your interests and findings may change. Content of thesis proposals is not set in stone and can always be revised with communication and collaboration with the committee. View proposals and exams as items that help you build your scientific products rather than evaluative procedures that need to be checked off."
-  },
-  {
-    "objectID": "10-courses.html#suggested-course-schedule",
-    "href": "10-courses.html#suggested-course-schedule",
-    "title": "11  Courses",
-    "section": "11.1 Suggested course schedule",
-    "text": "11.1 Suggested course schedule\nStudents generally take a full time credit load of 9 credits per semester while they are fulfiling the credit requirements for the degree. An exception is in the first year of study when students take 10 credits to meet the graduate seminar credit program requirement.\nIn the Fay lab, we tend to take most (ALL?) of the quantitative courses on offer.\nSeveral SMAST courses are offered on an alternating basis every 2 years. Particularly for MS students, you may want to take advantage of courses when they are offered, even if this means taking them out of the natural ‘sequence’.\n\n11.1.1 Year 1\nMost students take many of their core program requirements (denoted below with [C] or [PC] for policy core courses) in the first year. An exception may be PhD students who save one of the Oceanography requirements for the 2nd year, depending on other courses.\nFall MAR 540: Introduction to Fisheries Science (Stokesbury)\nMAR 544: Stock Assessment of Fishery Resources (even years) (Cadrin)\nMAR 555: Introduction to Physical Oceanography (Cowles/Sundermeyer) [C]\nMAR 700: Graduate Seminar (Fisheries Oceanography) [C]\nSpring MAR 545: Biological Oceanography (Turner) [C]\nMAR 536: Biological Statistics II (Fay) (even years)\nMAR 530: Ecosystem-Based Fisheries Management (odd years) (Fay) [PC]\nMAR 510: Chemical Oceanography [C]\nMAR 700: Graduate Seminar (Fisheries Oceanography) [C]\nTypically, most remaining coursework is completed in years 2-3, but this will vary by individual.\n\n\n11.1.2 Other courses Gavin will strongly ‘suggest’ you take\nMAR 580: Advanced Population Modeling (Fay) (odd years)\n\n\n11.1.3 Other courses you might want to take\nFall MAR 525: US Ocean Policy (Pierce, fall even yrs) [PC]\nMAR 522: Science Communication for Research Scientists (Fay, fall)\nMAR 599: Bayesian Statistics and Hierarchical Modeling (Fay, fall even yrs)\nMAR 527: Fisheries Management (Cadrin, fall odd yrs)\nSpring BIO XXX: Biological Statistics I (Kozak, spring)\nMAR 622: Stock Identification Methods (Cadrin, spring even)\nBased on interest MAR 5XX: Marine Resource Economics (Griffin & DePiper) [PC]\nMAR 580: Conservation in World Marine Capture Fisheries (He) [PC]\nMAR 580: Fish Behavior & Conservation Engineering (He)\nMAR 580: Field Methods in Fisheries Research (Cadrin/Bethoney)\nOf course there are lots of other course offerings - these are the ones that lab members have taken more than once. For present semester offerings, see the SMAST website. Full list of current SMAST courses and for which courses meet IMS core course requirements can be found here.\n\n\n11.1.4 Other UMassD courses\nCheck out course offerings in Data Science (DSC), Mathematics (MTH), Public Policy (POL), Biology (BIO), Mechanical Engeering (MNE), and Computer Science (CSI) in the Graduate Handbook and on COIN.\nYou may find this overview of the Data Science MS program and curriculum helpful in identifying other classes!\n\n\n11.1.5 Courses outside of UMass Dartmouth\nSome IMS courses are offered at UMass Amherst, Boston, and Lowell.\nInstructions and forms for registering for intercampus courses can be found under the ‘Academics’ section of the SMAST Occupants page.\nJarrett Byrnes (UMass Boston) statistics & R courses\nBiol 607: An Introduction to Computational Data Analysis for Biology Introduction to Data Science for Biology\nYou may also want to talk with Gavin about taking courses at another institution, say to take advantage of even more stock assessment and statistical computing courses (e.g. Andre Punt’s courses at University of Washington."
-  },
-  {
-    "objectID": "11-computing.html#overview-of-computing-at-umassd",
-    "href": "11-computing.html#overview-of-computing-at-umassd",
-    "title": "12  Computing resources",
-    "section": "12.1 Overview of Computing at UMassD",
-    "text": "12.1 Overview of Computing at UMassD\nAs a student of UMass Dartmouth, the Computing and Information Technology Services (CITS) provides access to essential resources and help when you need it. Information on how to set up your UMass login and access the UMassD portal can be found on the New Students UMassD CITS webpage. A list of available programs and licensed software can be found on the Software Licensing page."
-  },
-  {
-    "objectID": "11-computing.html#smast-computing-facilities",
-    "href": "11-computing.html#smast-computing-facilities",
-    "title": "12  Computing resources",
-    "section": "12.2 SMAST computing facilities",
-    "text": "12.2 SMAST computing facilities\nOnce you are set up with your UMass login, you will need to submit an SMAST IT Access Request Form to gain access to the SMAST Server. This form can be found under the SMAST Occupants page, Information Technology section through the UMassD portal. If you have additional questions or issues, you can email SMAST IT through smastsupport@umassd.edu."
-  },
-  {
-    "objectID": "11-computing.html#administrator-privileges",
-    "href": "11-computing.html#administrator-privileges",
-    "title": "12  Computing resources",
-    "section": "12.3 Administrator Privileges",
-    "text": "12.3 Administrator Privileges\nAs your computer is your main piece of lab research equipment, it is important to be able to use it effectively. Please ensure you are familiar with procedures for and have the ability to make changes on your computer as an administrator."
-  },
-  {
-    "objectID": "11-computing.html#remote-meetings-via-zoom",
-    "href": "11-computing.html#remote-meetings-via-zoom",
-    "title": "12  Computing resources",
-    "section": "12.4 Remote meetings via Zoom",
-    "text": "12.4 Remote meetings via Zoom\nUMassD uses Zoom as its conference call software solution. Everyone should activate their Zoom Pro account which is part of the university license. Information on how to set this up can be found here."
-  },
-  {
-    "objectID": "11-computing.html#collaborative-software",
-    "href": "11-computing.html#collaborative-software",
-    "title": "12  Computing resources",
-    "section": "12.5 Collaborative software",
-    "text": "12.5 Collaborative software\nFor writing, we collaborate using GoogleDocs. For code and analyses we encourage the use of version control (see Wilson et al. paper for what this could look like), stepping toward the use of git and github for sharing code and analyses. We believe there are many advantages of using these tools to help simplify workflows and shift cognitive load to the science being done rather than on organization and bookkeeping (which computers are good at). Recognizing that these tools represent a learning curve, we provide training in their use, and also encourage alternatives for sharing and documenting work. For example, code and analyses may also be shared among collaborators using a Google Drive folder."
-  },
-  {
-    "objectID": "11-computing.html#backups-and-set-up-to-lab-storage-server",
-    "href": "11-computing.html#backups-and-set-up-to-lab-storage-server",
-    "title": "12  Computing resources",
-    "section": "12.6 Backups and set up to Lab storage server",
-    "text": "12.6 Backups and set up to Lab storage server\nThe average life expectancy of a hard drive is less than the duration of most graduate programs. Thus it is critical to ensure your data and work are backed up regularly. You may have personal backup solutions (e.g. through Dropbox, Google Drive, etc.) but the lab has dedicated storage space on a university server that is backed up in multiple locations. Your data should be backed up on here. For information on logging on and accessing this, see information provided on a GitHub issue"
-  },
-  {
-    "objectID": "11-computing.html#learnr",
-    "href": "11-computing.html#learnr",
-    "title": "12  Computing resources",
-    "section": "12.7 Introductory R learning resources",
-    "text": "12.7 Introductory R learning resources\nWelcome to R! There are so many learning resources out there it can feel a little overwhelming in terms of what to choose! To get you set up and started, Happy Git and Github for the useR is a great resource, and is created by the same authors as the now-legendary stat545.com course. Their resources are extremely comprehensive and they have a fantastic Intro R course, especially for those who will be using R for doing statistics.\nRight now, we REALLY like this short intro course by @juliesquid & @allisonhorst. They teach a lot of the workflow and tools around using R right from the get go, which we think is more helpful than knowing how to do all the things. The (excellent) materials are thoughtfully put together, link to a ton of other great resources, and just like the online #rstats community in general, are super supportive of new learners.\nWe also really like:\n\nTeacup Giraffes R and statistics materials from Desirée De Leon and Hasse Walum.\n\nData Science in a Box course by Mine Çetinkaya-Rundel, and\nAdventures in R by Kelly Bodwin.\n\nIf you want a book to work from/through, R for Data Science is highly recommended. (book is free online)\nThe R Studio Education team have assembled a phenomenal array of courses, tutorials, and other materials for learning R, and for many types of data analyses and modeling using R. These are top notch and so thoughtfully put together. There is something for learners at all levels.\nA plug for the online R community. Follow the hashtag #rstats, & also check out accounts @RLadiesGlobal & @R4dsCommunity. The weekly #TidyTuesday social coding project is also a great way to practice your growing R skills. Have fun!\nThe R4dsCommunity Slack is a briliant resource for getting help to your R questions and finding tutorials. They also hold online Office Hours where you can get help with R from a real human.\nThe RStudio Community is a great go-to.\nLearn R from within R with interactive sessions using swirlstats.com.\nThe carpentries R lessons are also a fab resource."
-  },
-  {
-    "objectID": "11-computing.html#tmb-and-admb",
-    "href": "11-computing.html#tmb-and-admb",
-    "title": "12  Computing resources",
-    "section": "12.8 TMB and ADMB",
-    "text": "12.8 TMB and ADMB\n[resources detail]"
+    "objectID": "06-onboarding.html#facilities",
+    "href": "06-onboarding.html#facilities",
+    "title": "7  Onboarding",
+    "section": "7.5 Facilities",
+    "text": "7.5 Facilities\nCurrently all work in the lab is being performed remotely due to the COVID-19 pandemic. All access to SMAST facilities requires prior approval from Gavin, Mike Marino, and Eric Lyonnais. No work is to be performed on site until further notice.\n\n7.5.1 Office space\nOur physical lab space is in the SMAST-East (new) building. The lab is room 245. Ashleigh’s desk is in the lab. Gavin’s office is room 228.\nEveryone in the lab is provided with desk space. Lab members sit either in the lab itself, or in the shared graduate student cubicle space and shared postdoc offices. Gavin encourages people to set up and work where is most comfortable. Graduate students should make use of their allocated space in the shared area but can do computational work in the lab area.\nLab meetings are held either in the lab, or in one of the SMAST-E conference rooms.\n\n\n7.5.2 Key card building & room access\nAccess to the SMAST building, and to individual lab spaces within the building is through your UMass Pass keycard. Typically, you will have access to the SMAST gate, SMAST East building, the lab space (room #245), classrooms, and if you are a grad student/postdoc you will have access to the relevant shared office space.\nThe necessary building access forms can be found on the SMAST Occupants page which need to be filled out and approved and signed by Gavin before submitting to Mike Marino and Eric Lyonnais.\n\n\n7.5.3 Parking and transportation:\nParking at either of the SMAST buildings is free and no parking pass is required. Parking on the main UMassD campus requires a digital parking pass. If you are staff this pass is free, there is a fee for students. Full details for campus parking policies and procedures are on the UMassD parking webpage. Note that there is limited short-term/temporary parking available on campus so you may feel it’s not necessary to obtain a campus parking pass."
   }
 ]
