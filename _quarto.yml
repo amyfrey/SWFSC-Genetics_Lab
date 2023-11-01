@@ -10,26 +10,26 @@ book:
   
   page-footer:
     left: |
-      <a href="http://www.smast.umassd.edu/lab_fay/">The Fay lab</a>
+      <a href="https://www.fisheries.noaa.gov/about/marine-mammal-and-turtle-division-southwest-fisheries-science-center">SWFSC Marine Mammal and Turtle Division</a>
     right: |
       This book was built with <a href="https://quarto.org/">Quarto</a>.
-  site-url: https://thefaylab.github.io/lab-manual/
-  repo-url: https://github.com/thefaylab/lab-manual
+  site-url: https://amyfrey.github.io/SWFSC-Genetics_Lab/
+  repo-url: https://github.com/amyfrey/SWFSC-Genetics_Lab
   repo-actions: [edit,issue]
 
   chapters: 
     - index.qmd
-    - 01-communication.qmd
-    - 02-lab-culture-philosophy.qmd
-    - 03-code-of-conduct.qmd
-    - 04-onboarding.qmd
-    - 05-expectations.qmd
-    - 06-offboarding.qmd
-    - 07-funding.qmd
-    - 08-communication.qmd
-    - 09-academics.qmd
-    - 10-courses.qmd
-    - 11-computing.qmd
+    - 01-current-projects.qmd
+    - 02-mmtd-archive.qmd
+    - 03-communication.qmd
+    - 04-standard-operating-procedures.qmd
+    - 05-analysis-protocols.qmd
+    - 06-onboarding.qmd
+   # - 07-funding.qmd
+    #- 08-standard-operating-procedures.qmd
+    #- 09-academics.qmd
+    #- 10-courses.qmd
+    #- 11-computing.qmd
  #   - 12-umassd-resources.qmd
 #    - 13-smast-resources.qmd
 #    - 14-other-faylab-resources.qmd  

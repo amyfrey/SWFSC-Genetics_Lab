@@ -1,0 +1,30 @@
+---
+bibliography: references.bib
+---
+
+# Communication {#intro}
+
+The primary method of communication for the genetics lab is our biweekly lab meeting, which are currently happening via google meets on Thursdays at 10am. We also use this time once per quarter to meet in the lab and work as a group to clean the labs.
+
+## Past Lab meeting notes \
+
+see below for past lab meeting notes to find valuable information that was shared with the group in the past.\
+
+### 10/20/23
+[*run by V. Pease, notes by A. Frey*]{.underline}\
+-Please update FY23 project spreadsheets\
+-The MiSeq "motherboard" was replaced by Gilbert, our new Illumina tech, that has been the fix that has worked for others having the blue screen issue since updating the Windows operating system.\
+-Other notes regarding the MiSeq:\
+with FRD ramping up usage, V. Pease has set up a google calendar for sign up, to help with communication. It is still important to keep the paper calendar, located next to the machine, updated as well.\
+Lexi's training is going well. E. Lacasella is training her to do extractions, her and B. Hanser made low TE. If you need help with anything please reach out to Lexi via email and cc V. Pease. Next week Lexi will be busy helping with Necropsy workshop as well as turtle field day.\
+V. Pease is going to be sending out email invite to monthly group lunch, similar to Gaby's Pizza thursday.\
+At next lab meeting we will have a focused discussion on next steps for High Performance Computing (HPC)- replacing ahi.\
+**Round Robin for current Lab Work**\
+V. Pease- working on extractions and sequencing some killer whales\
+A. Harmon- working on some extractions and quantifications of Blue Whales. Splitting some tissue to send out. Clearing her plate to make time to get caught up on 4 loans. Asking for input/edits on SOP's for check-in's and check-outs of DNA and Tissue. Working through check-in lists from group check-in effort, and has been able to update/correct over 10,000 records. Working on the annual collection report, which has not been done for the last 3 FY's. Also recieved the museum cabinet for hummeri, curious to hear how people like it, because she is interested in getting one for ...?\
+A. Frey- no labwork planned, focusing on analysis catchup.\
+S. Roden- also no labwork planned, focusing on analysis catchup.\
+L. Mena- busy next week with necropsies and field work. Other than that just working through the labs getting familar with where everything goes.\
+P. Morin- VGL meeting with B. Hanser, working on getting Kogia samples. Able to recently archive 1000 fastq files from a collaborator.\
+E. Archer- got request to renew database contract (Dan), data management has been discussed across division, looking for some concrete needs for database management position. \
+Wrapping up, V. Pease reported that film storage is working out well for now. Also looking for input/suggestions for any adjustments to lab upkeep lists and best practices, also mentioned writing any needs on the white boards located on the fridges in the labs./

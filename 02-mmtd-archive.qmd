@@ -1,0 +1,30 @@
+# Marine Mammal and Turtle Archive {#database}
+
+The Marine Mammal and Sea Turtle Research Tissue Collection is one of the largest marine mammal and marine turtle sample collections in the world, serving a pivotal role in accomplishing the mandates and mission of the Agency. The collection comprises over 290,000 tissue and DNA samples from 118 species collected globally over the past 30 years (with some samples dating back more than 100 years).\
+We have a vast network of SQL databases that enable us to access and curate the data associated with the collection. Below is a list of the databases most relevent to the MMTD genetics programs.\
+There are several ID numbers assigned to samples as they become a part of our Archive. Once a sample is archived it will be associated with a  Lab_ID, an Animal_ID/Turtle_ID, and one or more Tissue_IDs (depending on how many tissue samples were collected for that individual. Once the DNA has been extracted a sample will also be associated with a DNA_ID, and can have multiple DNA_ID numbers if it is extracted multiple times.
+
+-   **Tissue Archive**
+The tissue archive database includes both mammals and turtles and has an animal collection event as the unique identifier. Lab_ID or Animal_ID are the primary ID numbers used in this database. There can be replicate animals in this database, different Lab_Id, but same Animal_ID. It is the place to look for basic collection information including animal ID, field ID, species, sex, collection type, collection date, collection location, latitude and longitude, city, state, county, country, island, ocean basin, associated cruise, use restrictions, contact, comments.
+-   **Turtle Archive**
+The turtle archive is very similar to the tissue archive, but includes only turtles and has a few different fields, such as turtle specific measurements,  collection method, animal activity, gear type, stage class, sample type.
+-   **Tissue Vial Storage Database**
+The primary ID number used in this database is the Tissue_ID number. Some of the information that you will find in this database includes information about the tissue type, quantity, perservative and location of the tissue sample.
+-   **Extraction Database**
+When samples are extracted they are entered into this database as a part of a batch, so there is a Extraction batch table as well as an extraction sample table. Batch information includes batch #, project supervisor, extraction contact, extraction type, date, number of samples extracted, number of negative controls, contamination iformation, and  comments. Sample information includes Batch #, Lab_ID, Tissue_ID, DNA_ID, comments.
+-   **DNA Storage Database**
+DNA_ID number is the primary identifier used in this database, this is where DNA location, concentration, quantity, use restrictions, and associated comments can be found.
+-   **Run Index Database**
+When DNA is processed in the genetics labs, meaning an additional genetics files are created, those files are archived in the Run Index. The files found in the run index were generally run on an Applied Biosystems Genetic Analyzer and are either a Sanger sequencing file(.ab1) which is generated when sequencing mitochondrial DNA, or a genescan file(.fsa) generated when running microsatellites on nuclear DNA. Information that you can find in this database would include Lab_ID, run date, plate information, file type, primer, assay, plate well, file name.
+-   **NGS Run Library and NGS Fastq Databases**
+This is very similar to the Run Index database but for .fastq files that were generated while sequencing an NGS(next generation sequencing library).There are 2 main databases the NGS Run Library database, and NGS Fastq database. The Run Library database contains information such as a run_ID, run date, # of samples, species, library prep method, sequencing instrument used, sequencing location, read length, read type. The NGS fastq database includes information about the individual samples that were included in each run, so Lab_ID, DNA_ID, run_ID, Indexes used, original file name and archived file name.  I
+-   **Primer and Assay Databases**
+When DNA is processed in the genetics labs, meaning an additional genetics files are created (.fasta, .fastq, .ab1, .fsa), those files are archived in the Run Index or NGS Run Library databases. The primers or assays used when generating that data can be found in these databases. 
+
+-   **Sequence Database**
+This database is where mitochondrial DNA haplotypes that are assigned after running sanger sequencing are captured. You will find Lab_ID, DNA_ID, run date, aligned date, haplotype name, user that called the haplotype, comments.
+-   **Microsatellite genotype database**
+This is where the genotypes that are called from genescans are captured. The types of data you will find here include Lab_ID, DNA_ID, run name, run date, marker(assay), allele calls, raw data peak heights, and raw data lengths.
+-   **SNP genotype database**
+This is similar to the microsatellite database but these calls are typically made after a qPCR assay.
+
