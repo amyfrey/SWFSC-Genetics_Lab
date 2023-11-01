@@ -1,0 +1,6 @@
+# Current Projects {#current projects}
+In the following chapters you can learn about current projects happening within the marine mammal and marine turtle genetics programs.
+
+## Project Tracking ##
+The website below will lead to a Jira, a Project Management tool that we hope to implement soon.\
+<https://www.atlassian.com/software/jira/work-management/product-guide/project-framework#what-is-jwm>

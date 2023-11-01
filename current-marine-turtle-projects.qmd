@@ -1,4 +1,4 @@
-# Current Projects {#current projects}
+# Current Marine Turtle Projects {#current projects}
 ## **Kemp's Ridley Project** ##
 This is part of an ongoing collaboration with The National Park Service (NPS) to incorporate genetics approaches to improving the accuracy of annual population monitoring and assessment of the Kemp’s ridley  nesting on South Padre Island in Texas. Identification of Nesting Females responsible for nests laid on South Padre Island in Texas. Our goal is to use mtDNA sequencing, in combination with microsatellites and kinship analysis to match nesting females to nests in which the female is not known.  This allows improved accuracy of annual population census, since nests are typically laid by unobserved females.  Our analysis also informs Life history, ecology and mating behavior (e.g. multiple paternity).
 

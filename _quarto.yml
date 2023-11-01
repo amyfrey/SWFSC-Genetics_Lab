@@ -19,9 +19,12 @@ book:
 
   chapters: 
     - index.qmd
-    - 01-current-projects.qmd
-    - 02-mmtd-archive.qmd
-    - 03-communication.qmd
+    - mmtd-archive.qmd
+    - part: current-projects.qmd
+      chapters: 
+        - current-marine-turtle-projects.qmd
+        - current-marine-mammal-projects.qmd
+    - communication.qmd
     - 04-standard-operating-procedures.qmd
     - 05-analysis-protocols.qmd
     - 06-onboarding.qmd
