@@ -1,4 +1,4 @@
-# Welcome!
+# Welcome! {.unnumbered}
 
 <br> This a living lab document for the Marine Mammal and Marine Turtle Genetics Groups.\
 The Marine Mammal & Turtle Division of the NMFS Southwest Fisheries Science Center (SWFSC) conducts research on marine mammals and sea turtles to monitor trends in abundance and provide management advice to domestic and international bodies.

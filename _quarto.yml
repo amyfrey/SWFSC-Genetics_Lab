@@ -25,7 +25,12 @@ book:
         - current-marine-turtle-projects.qmd
         - current-marine-mammal-projects.qmd
     - communication.qmd
-    - 04-standard-operating-procedures.qmd
+    - part: standard-operating-procedures.qmd
+      chapters: 
+        - General-Lab.qmd #try to use this to put each sop into its own qmd{{< include section.qmd >}}
+        #- Pre-PCR-Lab.qmd
+        #- Post-PCR-Lab.qmd
+        
     - 05-analysis-protocols.qmd
     - 06-onboarding.qmd
    # - 07-funding.qmd

@@ -1,4 +1,4 @@
-# Current Marine Mammal Projects {#current  mm projects}
+# **Current Marine Mammal Projects** {.unnumbered}
 
 ## **eDNA extraction mini experiment** ##	
 This mini experiment is to determine the extraction method for eDNA samples.  We will use water samples from Seaworld to test 2 different extraction methods. 
