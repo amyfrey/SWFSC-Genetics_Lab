@@ -1,5 +1,5 @@
 
-# Procedure to Make 1x Low Tris-EDTA (TE) Buffer pH 7.5 (from solution) GE-035.00 {.unnumbered}\
+# Procedure to Make 1x Low Tris-EDTA (TE) Buffer pH 7.5 (from solution) GE-035.00 {.unnumbered}
 SOP IDENTIFIER:	GE-035.00\
 ORIGINAL SOP DATE:	7/20/2023\
 NUMBER OF PAGES IN SOP:	3\
