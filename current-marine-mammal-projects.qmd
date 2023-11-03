@@ -1,2 +1,35 @@
 # Current Marine Mammal Projects {#current  mm projects}
 
+## **eDNA extraction mini experiment** ##	
+This mini experiment is to determine the extraction method for eDNA samples.  We will use water samples from Seaworld to test 2 different extraction methods. 
+		
+		
+## **eDNA time to filtration** ##
+This mini experiment we will determine the impact that elapsed time between sample collection and filtration has on the success of eDNA samples collected for species ID.\
+		
+		
+## **eDNA wild samples proof of concept** ##
+We will process eDNA samples for which we have paired biopsy/tissue samples to demonstrate our ability to 1) determine species and 2) generate an individual haplotype.  We will use 8 wild samples (already collected) and 2 Seaworld samples.  Samples will be extracted, Sanger sequenced, and sequenced on the MiSeq.\
+		
+		
+## **Humpback GTseq Migratory Herd project** ##
+Genotyping of humpback samples collected from several DPS to determine migratory herd structure. We will use GTseq assays to help determine this structure\
+		
+## **Disenchantment Bay harbor seal population structure** ##
+DNA extraction, genetic sexing and mtDNA control region sequencing for 77 samples collected from harbor seals in Disenchantment Bay. The resulting data will be combined with existing data from samples collected from nearby areas to evaluate stock structure.\
+
+## **Harbor seal mitogenomes** ##
+Full mitogenome sequencing of 88 harbor seal samples, including 50 scat samples from Iliamna Lake seals and 38 skin samples from Bristol Bay. Processing of the Iliamna Lake samples is dependent on obtaining information from GOC regarding which samples represent distinct individuals. The 38 samples to be sequenced from Bristol Bay are those samples that have the same CR haplotype that is found in Iliamna Lake\
+		
+## **Spotted seal population structure** ##
+DNA extraction, genetic sexing and mtDNA control region sequencing for ~130 samples collected from spotted seals. Results will be used to evaluate whether stock structure within this region can be detected\
+
+## **Fin whale 2bRAD population structure project** ##
+Use 2bRAD to genotype approximately 400 fin whales from the eastern North Pacific. Data will be combined with existing mitochondrial sequence data to evaluate DPS status and stock structure of fin whales in the eastern North Pacific.\
+		
+## **Subspecies taxonomy of blue whales** ##
+Microsatellite genotyping of these NIO samples (n=15) as well as samples (n~25) collected from blue whales in the North Pacific which have been sequenced but require genotyping (n=7 microsatellite loci) to establish whether any individuals are represented by more than one sample.\  
+		
+## **Feresa phylogeography project** ##
+Full mitogenome sequencing of approximately 80 samples of pygmy killer whales using NGS methods.  The data would be used to further investigate phylogeographic patterns within this species, particularly in light of existing data indicating the possibility of a distinct subspecies in the Sulu Sea.\
+		
