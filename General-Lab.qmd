@@ -1,9 +1,7 @@
-# Standard Operating Procedures- General Lab (SOP's) {.unnumbered}
+# General Lab (SOP's) {.unnumbered}
 
 A comprehensive list of Standard Operating Procedures (i.e. protocols) for use in the general lab can be found below. 
 
-
-
-## GE-035.00\
+## GE-035.00
 
 {{< include LowTEbuffer.qmd >}}

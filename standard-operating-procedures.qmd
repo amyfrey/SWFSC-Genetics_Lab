@@ -2,4 +2,6 @@
 
 A comprehensive list of Standard Operating Procedures (i.e. protocols) for various lab procedures can be found below. The SOP's are organized by lab or area of focus.
 
-{{< include General-Lab.qmd >}}
+## General Lab SOP's ##
+
+**GE-035.00** Procedure to Make 1x Low Tris-EDTA (TE) Buffer pH 7.5 (from solution)\
