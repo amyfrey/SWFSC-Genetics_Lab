@@ -8,7 +8,7 @@
 
 <meta name="description" content="This is a living lab document for the Marine Mammal and Marine Turtle Genetics Programs at Southwest Fisheries Science Center">
 
-<title>SWFSC Genetics Lab - General Lab (SOP’s)</title>
+<title>SWFSC Genetics Lab - Next Generation Sequencing (NGS) SOP’s</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,8 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./Pre_PCR-Lab.html" rel="next">
-<link href="./standard-operating-procedures.html" rel="prev">
+<link href="./05-analysis-protocols.html" rel="next">
+<link href="./Pre_PCR-Lab.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -75,7 +75,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./standard-operating-procedures.html">Standard Operating Procedures (SOP’s)</a></li><li class="breadcrumb-item"><a href="./General-Lab.html">General Lab (SOP’s)</a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./standard-operating-procedures.html">Standard Operating Procedures (SOP’s)</a></li><li class="breadcrumb-item"><a href="./NGS_SOPs.html">Next Generation Sequencing (NGS) SOP’s</a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -155,7 +155,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./General-Lab.html" class="sidebar-item-text sidebar-link active">
+  <a href="./General-Lab.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">General Lab (SOP’s)</span></a>
   </div>
 </li>
@@ -167,7 +167,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./NGS_SOPs.html" class="sidebar-item-text sidebar-link">
+  <a href="./NGS_SOPs.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Next Generation Sequencing (NGS) SOP’s</span></a>
   </div>
 </li>
@@ -195,17 +195,17 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#ge-035.00" id="toc-ge-035.00" class="nav-link active" data-scroll-target="#ge-035.00">GE-035.00</a></li>
-  <li><a href="#procedure-to-make-1x-low-tris-edta-te-buffer-ph-7.5-from-solution-ge-035.00" id="toc-procedure-to-make-1x-low-tris-edta-te-buffer-ph-7.5-from-solution-ge-035.00" class="nav-link" data-scroll-target="#procedure-to-make-1x-low-tris-edta-te-buffer-ph-7.5-from-solution-ge-035.00">Procedure to Make 1x Low Tris-EDTA (TE) Buffer pH 7.5 (from solution) GE-035.00</a></li>
+  <li><a href="#ng-007.00" id="toc-ng-007.00" class="nav-link active" data-scroll-target="#ng-007.00">Ng-007.00</a></li>
+  <li><a href="#procedure-to-prepare-gtseq-ngs-library-ng-007.00" id="toc-procedure-to-prepare-gtseq-ngs-library-ng-007.00" class="nav-link" data-scroll-target="#procedure-to-prepare-gtseq-ngs-library-ng-007.00">Procedure to Prepare GTseq NGS Library NG-007.00</a></li>
   </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/amyfrey/SWFSC-Genetics_Lab/edit/main/General-Lab.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/amyfrey/SWFSC-Genetics_Lab/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/amyfrey/SWFSC-Genetics_Lab/edit/main/NGS_SOPs.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/amyfrey/SWFSC-Genetics_Lab/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">General Lab (SOP’s)</h1>
+<h1 class="title">Next Generation Sequencing (NGS) SOP’s</h1>
 </div>
 
 
@@ -220,55 +220,197 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>A comprehensive list of Standard Operating Procedures (i.e.&nbsp;protocols) for use in the general lab can be found below.</p>
-<section id="ge-035.00" class="level2">
-<h2 class="anchored" data-anchor-id="ge-035.00">GE-035.00</h2>
+<p>A comprehensive list of Standard Operating Procedures (i.e.&nbsp;protocols) used when working with Next Generation Sequencing Procedures can be found below.</p>
+<section id="ng-007.00" class="level2">
+<h2 class="anchored" data-anchor-id="ng-007.00">Ng-007.00</h2>
 </section>
-<section id="procedure-to-make-1x-low-tris-edta-te-buffer-ph-7.5-from-solution-ge-035.00" class="level1 unnumbered">
-<h1 class="unnumbered">Procedure to Make 1x Low Tris-EDTA (TE) Buffer pH 7.5 (from solution) GE-035.00</h1>
-<p>SOP IDENTIFIER: GE-035.00<br>
-ORIGINAL SOP DATE: 7/20/2023<br>
+<section id="procedure-to-prepare-gtseq-ngs-library-ng-007.00" class="level1 unnumbered">
+<h1 class="unnumbered">Procedure to Prepare GTseq NGS Library NG-007.00</h1>
+<p>SOP IDENTIFIER: NG-007.00<br>
+ORIGINAL SOP DATE: 10/30/2019<br>
 NUMBER OF PAGES IN SOP: 3<br>
 REVISION NUMBER: 00<br>
 REVISION DATE: N/A<br>
-WRITTEN BY: Erin LaCasella 7/20/2023<br>
-REVIEWED BY: Amy Frey<br>
-APPROVED BY: Victoria Pease<br>
-EFFECTIVE DATE:<br>
+WRITTEN BY: Amy Frey<br>
+REVIEWED BY: Erin LaCasella<br>
+APPROVED BY: Victoria Pease 5/25/2023<br>
+EFFECTIVE DATE: 03/31/2020<br>
 </p>
 <p><strong>Scope and Purpose:</strong><br>
-To make 1X Low TE buffer for DNA storage. TE buffer solubilizes DNA or RNA for storage and protects from degradation and has a lower salt content. Ethylenediaminetetraacetic Acid (EDTA) chelates metal ions (e.g.&nbsp;Mg 2+) which normally cause degradation.</p>
+The purpose of this procedure is to prepare a next generation sequencing library for SNP genotyping.<br>
+</p>
 <p><strong>Summary of Method: </strong><br>
-Buffer is made by combining pre-made solutions of: 1M Tris-HCl (pH 7.5) and 0.5 M Ethylenediaminetetraacetic Acid (EDTA, pH 8.0).</p>
+The method consists of two PCR reactions, the first is a locus specific multiplex PCR and the second is to add the plate and individual indexes which will allow the PCR products to be pooled together. Prior to pooling, the PCR products are normalized using SequelPrep normalizations plates. Once the samples from each plate are pooled an Ampure bead cleanup is done, the pooled plates are quantified using qPCR, and then multiple plates can be pooled to prepare the final library for sequencing.<br>
+</p>
 <p><strong>Health and Safety Warnings:</strong><br>
+• Wear latex or nitrile gloves, lab coat, closed-toe shoes and safety glasses.<br>
 • This procedure uses chemicals that may be harmful. Please read Appendix A before performing this protocol.<br>
-• Wear gloves, lab coat, closed-toe shoes and safety glasses.<br>
 </p>
 <p><strong>Quality Control:</strong><br>
-• Store in the refrigerator in a tightly closed container<br>
-• Perform procedure in general lab<br>
+• Wear latex or nitrile gloves throughout protocol.<br>
+• Wipe down surface area and pipettes with bleach/EtOH mixture to sterilize surfaces before and after use.<br>
+• Portions of the protocol should be performed in the Post-PCR labs; do not perform in the Pre-PCR labs.<br>
 </p>
 <p><strong>Equipment and Supplies:</strong><br>
-1. 250 mL (or 500 mL) Graduated cylinder<br>
-2. 250 mL (or 500 mL) orange screw cap bottle<br>
-3. Tris-HCl (Invitrogen Ultrapure 1M Tris-HCl pH 7.5)<br>
-4. EDTA (Invitrogen Ultrapure 0.5M EDTA, pH8.0)<br>
-5. MilliQ water (or Invitrogen Ultrapure water)<br>
+1. 96-well semi-skirted plate<br>
+2. Pipettes (10ul, 100ul, 1000ul)<br>
+3. Pipette tips (10ul, 100ul, 1000ul)<br>
+4. Thermocycler<br>
+5. 96-well non-skirted plate<br>
+6. PCR seals<br>
+7. Alumaseal<br>
+8. Multichannel Pipettes (10ul, 200ul)<br>
+9. Multichannel Pipette tips (10ul, 200ul)<br>
+10. Multichannel reagent basins<br>
+11. SequelPrep Normalization Plates<br>
+12. Tubes (strip, 1.7ml)<br>
+13. Strip tube caps<br>
+14. Magnetic plate<br>
+15. Qubit<br>
+16. Real-time PCR cycler-Mx 3005P qPCR machine<br>
+17. Bioanalyzer<br>
+18. Mini vortexer<br>
+19. Mini centrifuge for strip tubes<br>
+20. Plate centrifuge<br>
+21. Reagents:<br>
+• ExoSAP<br>
+• Locus Specific Primers (contact PI for those)<br>
+• Qiagen Multiplex Plus PCR master mix<br>
+• GTseq specific i5 Indexing primers (one per plate of DNA)<br>
+• i7 Indexing primers (96 for a full plate)<br>
+• SequelPrep Normalization Binding Buffer<br>
+• SequelPrep Normalization Wash Buffer<br>
+• SequelPrep Normalization Elution Buffer<br>
+• Ampure XP beads<br>
+• Fresh 70% ethanol<br>
+• 1x TE buffer<br>
+• EBT buffer (990ul EB buffer, 10ul Tween-20)<br>
+• Reagents for qPCR Kapa Quantification (PR-037.00 Quantify using KAPA standards with SYBR mix)<br>
+• Reagents for Qubit quantification (PR-038.00 Procedure to quantify using the Qubit)<br>
+• Reagents for Bioanalyzer High sensitivity kit (NG-004.00 Procedure to quantify using the Bioanalyzer)<br>
 </p>
-<p><strong>Procedures:</strong> To make 250 mL, combine reagents in a graduated cylinder:<br>
-1. Add 2.5 mL of 1M Tris-HCl pH 7.5 (pre-made solution)<br>
-2. Add 50 uL of 0.5M EDTA pH 8.0 (pre-made solution)<br>
-3. Add MilliQ water to total 250 mL<br>
-4. Pour into the orange screw cap bottle<br>
-5. Mix the solution by carefully inverting the bottle a few times<br>
-6. Label the bottle and store in refrigerator<br>
-</p>
-<p><strong>Waste Management:</strong> If there are questions on handling chemicals contact the Safety Officer or Lab Manager. Spills, cuts or other accidents should be reported to the Safety Officer and Lab Manager.</p>
+<p><strong>Procedures:</strong><br>
+&nbsp;1. Prepare genomic DNA (gDNA) for protocol<br>
+&nbsp;&nbsp;&nbsp;&nbsp;a. Normalize DNA into semi-skirted plate. Target concentration is 100ng in a volume of 10ul, so 10ng/ul. Seal with caps and freeze until needed.<br>
+&nbsp;2. Prepare GTseq primer mix:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;a. Add 2.5ul of each locus specific GTseq primer (100nM) together and bring to a final volume of 1000ul with milliQ water. <strong><em>NOTE</em></strong>: This amount may be adjusted depending on the number of plates of DNA that you will be amplifying, each plate of DNA uses ~160ul of primer mix.<br>
+3. ExoSAP treatment of gDNA (optional step)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;a. Add 3ul of ExoSAP to each well of the normalized DNA plate, with 10ul gDNA<br>
+&nbsp;&nbsp;&nbsp;&nbsp;b. Place on a thermocycler<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. 37º C 60 minutes, 80º C 20 minutes, 4º C hold<br>
+4. Locus specific PCR (PCR 1)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;a. Prepare PCR master mix<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. 1.5ul locus specific primer mix (per rxn)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. 3.5ul Qiagen Multiplex Plus PCR master mix (per rxn)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;b. Add 5ul PCR master mix to each well of 96 well non-skirted PCR plate, followed by 2ul of gDNA<br>
+&nbsp;&nbsp;&nbsp;&nbsp;c.&nbsp;Seal with heat seal or caps, vortex and spin down<br>
+&nbsp;&nbsp;&nbsp;&nbsp;d.&nbsp;Thermocycler conditions:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. 95º C 15 minutes (initial denaturation)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. 5 cycles of 95º C 30 sec., 57º C 30 sec.(5% ramp), 72º C 2 min. (targets gDNA)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. 10 cycles of 95º C 30 sec., 65º C 30 sec., 72º C 30 sec.&nbsp;(replicating target DNA)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iv. 4º C hold<br>
+5. Dilute Locus specific PCR (PCR 1) to1:20, perform in Post PCR lab only<br>
+&nbsp;&nbsp;&nbsp;&nbsp;a. Add 133ul milliQ water directly to each well of plate from PCR 1<br>
+&nbsp;&nbsp;&nbsp;&nbsp;b. Seal with Alumiseal, vortex and spin down<br>
+6. Index PCR (PCR 2)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;a. Prepare PCR master mix<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. 5ul Qiagen Multiplex Plus PCR master mix<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. 1ul Desired plate (P5 index_#) index primer (10uM)<br>
+&nbsp;&nbsp;&nbsp;&nbsp; b. Add 6ul PCR master mix to each well<br>
+&nbsp;&nbsp;&nbsp;&nbsp;c.&nbsp;Add 1ul of individual (Sol_PCR_MPI_#) index primer (10uM) to each well <strong><em>Note</em></strong>: there is a plate of i7 primers already prepared, the index layout is shown in Appendix B<br>
+&nbsp;&nbsp;&nbsp;&nbsp;d.&nbsp;Take plate to Post PCR lab and add 3ul of diluted product from PCR 1 to each well.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;e. Seal with heat seal or caps, vortex and spin down<br>
+&nbsp;&nbsp;&nbsp;&nbsp;f.&nbsp;Thermocycler conditions:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. 95º C 15 min.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. 10 cycles of 95º C 10 sec., 65º C 30 sec., 72º C 30 sec.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. 72º C 5 min.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iv. 4º C hold<br>
+7. SequelPrep Normalization<br>
+&nbsp;&nbsp;&nbsp;&nbsp; a. Binding step<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Using a multichannel pipette add 10ul binding buffer to each well<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. Vortex and briefly centrifuge PCR 2<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. Using a multichannel pipette and a full box of tips, transfer 10ul of PCR 2 to SequelPrep Normalization plate. <strong><em>Note</em></strong>: some wells may have less than 10ul due to evaporation, proceed anyway, just transfer everything.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iv. Seal with Alumaseal, vortex and briefly spin.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;v. Incubate plate at room temperature for 1 hour. <strong><em>Note</em></strong>: more than an hour is okay, but no overnight, 1-2 hrs is fine.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;b. Washing step<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Briefly spin, and remove Aluma seal.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. Carefully aspirate all of the liquid from the well taking extra care not to scrape the side of the wells, it is fine to use the same 8 tips for the entire plate.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. Using a multichannel pipette, dispense 50ul wash buffer into every well.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iv. Once the wash buffer has been added to each well, use the multichannel and the same 8 tips to flush the wells by pipetting up and down twice and then completely aspirating the buffer from the wells and discarding. Again taking caution to not scrape the sides of the wells.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;v. Once the wash buffer has been aspirated from each well, invert and tap (aggressively) the plate onto paper towels in order to remove any residual wash buffer from the wells. <strong><em>Note</em></strong>: A small amount of wash buffer (1-3ul) remaining is typical and will not affect downstream applications.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;c.&nbsp;Elution step<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Using multichannel pipette, add 20ul of SequelPrep Normalization Elution buffer to each well.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. Seal with Alumaseal, vortex and briefly spin<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. Incubate at room temperature for 5 minutes<br>
+8. Pool plate &nbsp;&nbsp;&nbsp;&nbsp;a. Using a multichannel pipette, take 10ul from each well of the SequelPrep normalized plate and combine into strip tube and then into a 1.7ml tube, or a boat to a 1.7ml tube.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;b. SequelPrep Plate can be discarded at this point, or if preferred saved until library is complete.<br>
+9. Bead Size selection<br>
+&nbsp;&nbsp;&nbsp;&nbsp;a. Removing long sequences (&gt; 300bp)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Pull 50ul from each plate pool and place into a strip tube<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. Vortex Ampure XP beads well<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. Add 25ul of beads to each strip tube well (1:0.5 ratio)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iv. Mix well, and incubate for 5 min.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;v. Transfer strip tubes to magnetic plate and let sit for 3 min.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vi. Carefully remove the supernatant from the beads and transfer to a new set of strip tubes, discard the beads. <strong><em>Note</em></strong>: the unwanted long sequences, &gt;300bp are attached to the beads<br>
+&nbsp;&nbsp;&nbsp;&nbsp;b. Removing the short sequences (&lt;100bp)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Vortex the Ampure XP beads well<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. Add 35ul of beads to each strip tube with the supernatant<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. Mix well, and incubate for 5 min.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iv. Transfer strip tubes to magnetic plate and let sit for 3 min.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;v. Carefully remove and discard the supernatant. <strong><em>Note</em></strong>: the undesirable short sequences &lt;100bp are in the supernatant.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;c.&nbsp;Wash step<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Prepare fresh 70% ethanol, 1ml is enough for 2.5 tubes.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. While still on the magnetic plate, gently add 200ul of fresh 70% ethanol to the strip tubes containing the beads, incubate at room temp for 30 sec., remove ethanol from strip tube and discard.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. Repeat<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iv. Remove strip tube from magnetic plate and allow any residual ethanol to evaporate by letting stand for 10 min (no more than 15 min) uncovered. <strong><em>Note</em></strong>: you should observe the beads starting to dry and crack, this is good<br>
+&nbsp;&nbsp;&nbsp;&nbsp;d.&nbsp;Elute<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Add 15ul 1x TE to strip tube containing beads and mix well to elute. Ensure that TE washed beads from side of the tube, beads should be dissolved into TE.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. Place on the magnetic plate for 2 minutes<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. Collect the cleared supernatant and transfer to new strip tube<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iv. Add 1.5ul EBT (EB containing 1% Tween-20)<br>
+10. Plate quantification<br>
+We have 3 options for quantifying pooled plates:<br>
+1) qPCR using the KAPA kit (PR-037.00 Quantify using KAPA standards with SYBR mix). Note: It is recommended to do 2-3 replicates of 3 dilutions such as 1:5000, 1:10000, and 1:50000<br>
+2)Qubit (PR-038.00 Procedure to quantify using the Qubit)<br>
+3) Bioanalyzer (NG-004.00 Procedure to quantify using the Bioanalyzer).<br>
+It is recommended to quantify with multiple methods and review results with PI to plan for pooling plates.<br>
+11. Normalize plate pools to between 2.5nM -5nM (the final concentration may vary based on plate quantification outcome and PI recommendations)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;a. Starting with 10ul of BSS DNA (bead size selected DNA)<br>
+EXAMPLE: 10ul BSS DNA x 15.73nM (qPCR conc.) / 5nM (agreed upon conc) = 31.46ul -10ul BSS DNA = 21.46 ul TE/Tween So you would take 10ul of BSS DNA + 21.46ul TE/Tween to dilute it to 5nM<br>
+<strong><em>Note</em></strong>: see Appendix C for converting from ng/ul to nM<br>
+&nbsp;&nbsp;&nbsp;&nbsp;b. Combine 5ul of each normalized pooled plate to make your final library. <strong><em>Note</em></strong>: it is good practice to also quantify the pooled library before sending to the sequencing facility or loading onto the MiSeq. Refer to step 10 above for quantification methods.<br>
+12. If running library on MiSeq in house, refer to NG-004.00 Procedure to run the MiSeq.<br>
+<strong>Waste Management:</strong> Plastics and other liquids can be thrown in the trash. If there are questions on handling chemicals contact the Safety Officer or Lab Manager. Spills, cuts or other accidents should be reported to the Safety Officer and Lab Manager.</p>
 <p><strong>References:</strong> For SDS information, go to C:\UsersGenetics SDS (see Lab Manager for designated computers).</p>
 <p><strong>Hazardous substance information: </strong><br>
 <a href="https://epa.gov/ceppo/pubs/title3.pdf" class="uri">https://epa.gov/ceppo/pubs/title3.pdf</a></p>
 <p><strong>Appendix A: Chemical Health and Safety Warnings</strong></p>
-<p><strong>TE Buffer (Tris and EDTA)</strong><br>
+<p><strong>Exonuclease 1 and Shrimp Alkaline Phosphatase</strong><br>
+Contains glycerol which is an irritant.<br>
+<u>First Aid</u><br>
+<em>Eyes:</em> flush with water for 15 minutes. Seek medical advice if irritation persists.<br>
+<em>Skin:</em> flush with water, then wash thoroughly with soap and water. Remove contaminated clothing and wash before reuse. Seek medical attention if irritation persists.<br>
+<em>Inhalation:</em> remove the victim from exposure and move to fresh air. If breathing is difficult, give oxygen. If not breathing, give artificial respiration.<br>
+<em>Ingestion:</em> drink water and seek immediate medical attention.<br>
+</p>
+<p><strong>Ethanol (ETOH)</strong> Highly flammable. Causes moderate skin irritation. Inhalation may cause respiratory tract irritation, nausea, headaches, dizziness and suffocation.<br>
+<u>First Aid</u><br>
+<em>Inhalation:</em> supply fresh air and oxygen<br>
+<em>Eyes:</em> rinse opened eye for at least 15 minutes under running water<br>
+<em>Skin:</em> remove contaminated clothing and immediately wash area with soap and water.<br>
+<em>Ingestion:</em> wash mouth with water and seek medical attention. Do not induce vomiting.<br>
+</p>
+<p><strong>EBT buffer/ EB buffer</strong><br>
+No MSDS needed<br>
+</p>
+<p><strong>Tween-20</strong><br>
+May cause eye, skin, and respiratory tract irritation<br>
+<u>First Aid</u><br>
+<em>Eyes:</em> Immediately flush eyes with plenty of water for at least 15 minutes, occasionally lifting the upper and lower eyelids. If irritation develops, get medical aid.<br>
+<em>Skin:</em> Immediately flush skin with plenty of water for at least 15 minutes while removing contaminated clothing and shoes. Get medical aid if irritation develops or persists.<br>
+<em>Ingestion:</em> Do not induce vomiting. Get medical aid if irritation or symptoms occur.<br>
+<em>Inhalation:</em> Remove from exposure and move to fresh air immediately. If not breathing, give artificial respiration. If breathing is difficult, give oxygen. Get medical aid if cough or other symptoms appear.<br>
+<strong>TE Buffer (Tris and EDTA)</strong><br>
 Can cause damage to the kidneys, central nervous system and reproductive systems. It can cause skin, eye, digestive tract and respiratory irritation as well.<br>
 <u>First Aid</u><br>
 <em>Eye contact:</em> flush eyes with water for at least 15 minutes while occasionally opening and closing eyelids. Seek medical attention immediately.<br>
@@ -288,6 +430,8 @@ Irritating to the eyes, skin and the mucous membrane of the upper respiratory tr
 <em>Skin:</em> rinse with water immediately<br>
 <em>Eye contact:</em> wash with water immediately and contact a physician right away.<br>
 </p>
+<p><strong>Appendix B: i7 index primer plate layout</strong><br>
+<img src="img/fi7indexplate.png" class="img-fluid"></p>
 
 
 </section>
@@ -528,13 +672,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./standard-operating-procedures.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Standard Operating Procedures (SOP’s)</span>
+      <a href="./Pre_PCR-Lab.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Pre-PCR Lab (SOP’s)</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./Pre_PCR-Lab.html" class="pagination-link">
-        <span class="nav-page-text">Pre-PCR Lab (SOP’s)</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./05-analysis-protocols.html" class="pagination-link">
+        <span class="nav-page-text">Analysis Protocols</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
