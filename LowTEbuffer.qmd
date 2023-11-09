@@ -10,10 +10,10 @@ REVIEWED BY:	Amy Frey	\
 APPROVED BY:	Victoria Pease \
 EFFECTIVE DATE:	\
  
-**Scope and Purpose:**
+**Scope and Purpose:**\
 To make 1X Low TE buffer for DNA storage. TE buffer solubilizes DNA or RNA for storage and protects from degradation and has a lower salt content. Ethylenediaminetetraacetic Acid (EDTA) chelates metal ions (e.g. Mg 2+) which normally cause degradation.
 
-**Summary of Method: **
+**Summary of Method: **\
 Buffer is made by combining pre-made solutions of: 1M Tris-HCl (pH 7.5) and 0.5 M Ethylenediaminetetraacetic Acid (EDTA, pH 8.0).
 
 **Health and Safety Warnings:**\

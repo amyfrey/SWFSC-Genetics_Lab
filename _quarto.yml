@@ -28,7 +28,8 @@ book:
     - part: standard-operating-procedures.qmd
       chapters: 
         - General-Lab.qmd #try to use this to put each sop into its own qmd{{< include section.qmd >}}
-        #- Pre-PCR-Lab.qmd
+        - Pre_PCR-Lab.qmd
+        - NGS_SOPs.qmd
         #- Post-PCR-Lab.qmd
         
     - 05-analysis-protocols.qmd

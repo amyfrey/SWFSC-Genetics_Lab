@@ -1,1 +1,107 @@
 # Analysis Protocols {.unnumbered} 
+This section provides a place for people to discribe and link any github pages or scripts that they would like to share with the group.\
+
+## GTseq Analysis protocols \
+[*provided by A. Frey*]{.underline}\
+
+This is a description of the analysis workflow that I am currently using for fastq files generated from GTseq library prep.  The GTseq panel that I am using also includes microsatellite loci, step \
+
+**Step One**- Creating Directories, running fastqc, Trimming *filename*.fastq.gz, running fastqc on trimmed, generating *filename*.sam, *filename*.bam files, extracting microsatellite reads for MEGASAT, compressing *filename*.sam file for Microhaplot\
+[*Description*]{.underline}:\
+This step is currently done on Ahi our legacy HPC, in the near future these scripts will need to be adjusted.\
+*Workflow*:\
+1. open create_directories.sh, edit the following variables in the script: *run*, *sp(species)*, *project*, and *user* information\
+2. run create_directories.sh\
+3. transfer *.fastq.gz to appropriate directory\
+4. open map2ref.sh, edit the following variables in the script: *run*, *sp(species)*, *project*, and *user* information, additionally, edit the location for ref files\
+5. verify that the ref files are in the correct location\
+6. verify that fastq.gz files have the following format *labID_sample#_L001_R1_001.fastq.gz*\
+7. run map2ref.sh
+[*inputs:*]{.underline}:\
+  - *filename*.fastq.gz \
+  - *ref*.fasta, file containing the sequence for each locus in panel\
+  - *msat_primerF*.txt,  file containing msat forward primer\
+  - adaptorGT.fasta, contains illumina index adapters used in primer design\
+[*outputs:*]{.underline}
+  - fastqc file for each raw fastq\
+  - fastqc file for each trimmed fastq\
+  - readcounts.txt containing raw read count for each fastq\
+  - trimmed_readcounts.txt containg read counts remaining after quality trimming\
+  - mapped_readcounts.txt containing # of reads that aligned to the ref.fasta\
+  - msat_readcounts.txt, contain the # of reads that contain any of the forward primer for microsatellite loci\
+  - a depth folder with a *labID*.coverage file for each fastq, has read counts for each locus in ref.fasta\
+  - tar.gz file with the *labID*_mapped2ref.sam files for each fastq\
+[*link to github scripts:*]{.underline}
+  - <https://github.com/amyfrey/GTseq/blob/main/create_directories.sh>\
+  - <https://github.com/amyfrey/GTseq/blob/main/map2ref.sh>\
+  - <https://github.com/amyfrey/GTseq/blob/main/ref/DcGTseqPanel_205_112122.fasta>\
+  - <https://github.com/amyfrey/GTseq/blob/main/ref/dc_msat_primerF.txt>\
+  - <https://github.com/amyfrey/GTseq/blob/main/ref/adaptorGT.fasta>\
+
+**Step Two-** Reviewing the coverage for the run\
+[*Description*]{.underline}:\
+The purpose of this script is to get a general idea how the coverage looks across the entire run as well as for the individual loci and samples.\
+[*inputs:*]{.underline}:\
+  - sampleinfo.txt, with the following column headers Lab_ID, Plate_ID, Well_ID, Sample_ID this file is something that you will have to make.\
+  - readcounts.txt containing raw read count for each fastq\
+  - trimmed_readcounts.txt containg read counts remaining after quality trimming\
+  - mapped_readcounts.txt containing # of reads that aligned to the ref.fasta\
+  - msat_readcounts.txt, contain the # of reads that contain any of the forward primer for microsatellite loci\
+  - a depth folder with a *labID*.coverage file for each fastq, has read counts for each locus in ref.fasta\
+  - list of loci as columns(all in one row, with first column called Lab_ID, and last column prop_loci_>10), example of format shown in dc205_list of loci.txt
+  - list of loci as rows (all in one row, with first row called Locus_ID), example of format shown in loci.txt
+[*outputs:*]{.underline}\
+  - coveragesummary.pdf\
+[*link to github scripts:*]{.underline}\
+  - <https://github.com/amyfrey/GTseq/blob/main/run_coverage_review.r>
+
+**Step Three- Generating a .vcf file for Microhaplot**
+[*Description*]{.underline}:\
+The varient caller that is currently being used for this step is freebayes. After freebayes is run, it is important to clean up the .vcf file before moving on to the next step. That is currently done with vcftools, if I known list of varients exists it is easy use the --exclude-positions option, after creating a list of varients that you want to remove from the .vcf file.
+[*inputs:*]{.underline}\
+  - freebayes requires *filename*.bam files, and a list of *filename*.bam files. Our practice at this step is to use the pdf above to identify individuals to not include in the varient calling analysis\
+  - vcftools --exclude-positions requires a vcf file, as well as a text file that lists the varients to remove.\
+[*outputs:*]{.underline}\
+   - *filename*.vcf\
+   - *filename*_targetloci_recode.vcf\
+[*commands used:*]{.underline}\
+  - freebayes-parallel <(fasta_generate_regions.py /home/afrey/gtseq/ref/DcGTseqPanel_205_112122.fasta.fai 200) 6 -f /home/afrey/gtseq/ref/DcGTseqPanel_205_112122.fasta -L ./bamlist_100423.txt --haplotype-length 0 -kwVa --no-mnps --no-complex --min-coverage 10 --use-best-n-alleles 4 --min-alternate-count 5 --min-alternate-fraction 0.3 > Dcor_mex_fem_DcPanel_205_100423.vcf\
+  - vcftools --vcf ./Dcor_gtseq_fem_DcPanel205_053123.vcf --out ./Dcor_gtseq_fem_DcPanel205.targetSNPs --exclude-positions ./non.target.locs.to.remove2.txt --recode --recode-INFO-all\
+  
+**Step Four- Running Microhaplot**\
+[*Description*]{.underline}:\
+
+[*inputs:*]{.underline}\
+  - *filename*.sam files
+  - *filename*_targetloci_recode.vcf\
+[*outputs:*]{.underline}\
+
+[*link to manual:*]{.underline}\
+  - https://ngthomas.github.io/microhaplot/
+  
+**Step Five- Microsatellite Analysis using MEGASAT**\
+[*Description*]{.underline}:\
+This step is only necessary if there are microsatellite loci in your panel. If so the software we are using is a perl script called MEGASAT.
+[*inputs:*]{.underline}\
+  - *labID*_msat.fastq (generated in step one above)
+  - MEGASAT_Genotype.pl
+  - *primer-input*.txt, see documentation for formate\
+[*outputs:*]{.underline}\
+  - genotype.txt\
+  - number_Discarded.txt\
+  - Number_Sorted.txt\
+  - Number_Trimmed.txt\
+  - Ratios_Threshold_.txt\
+  - directory: Discarded\
+  - directory: length_distribution\
+  - directory: Sorted\
+  - directory: Trimmed\
+[*link to github:*]{.underline}\
+  - <https://github.com/beiko-lab/MEGASAT>
+  
+**Step Six- Importing Genotypes into SWFSC Genotypes Database**
+[*Description*]{.underline}:\
+This step is still in process. Stay tuned for updates.
+[*inputs:*]{.underline}\
+[*outputs:*]{.underline}\
+[*link to scripts:*]{.underline}\

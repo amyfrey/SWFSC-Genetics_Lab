@@ -1,0 +1,278 @@
+
+# Procedure to extract DNA from Tissue using a Manual NucleoMag Bead Protocol PR-034.00 {.unnumbered}
+SOP IDENTIFIER:	PR-034.00\
+ORIGINAL SOP DATE:	4/03/2020\
+NUMBER OF PAGES IN SOP:	9\
+REVISION NUMBER:	00\
+REVISION DATE:	N/A\
+WRITTEN BY:	Erin LaCasella	4/03/2020\
+REVIEWED BY:	Suzanne Roden   4/16/2020	\
+APPROVED BY:	Victoria Pease    10/27/2020\
+EFFECTIVE DATE:	10/27/2020\
+ 
+**Scope and Purpose:**\
+To isolate genomic DNA from marine turtle, cetacean and pinniped skin, muscle, and internal
+organ tissue.
+
+**Summary of Method: **\
+Marine animal tissue is digested with the active digestive enzyme Proteinase K. Genomic DNA is then isolated and purified from this digested material using magnetic beads and a series ofwashes. This is a 2 day procedure, about 2-3 hours each day depending on the number of samples (full plate is 96 samples).
+
+**Health and Safety Warnings:**\
+• Wear latex or nitrile gloves, closed-toe shoes and a lab coat.\
+• This procedure uses chemicals that may be harmful. Please read Appendix A before performing this protocol.\
+• Be careful handling razor blades (see razor blade safety in Appendix A).\
+• If using frozen tissues, equilibrate tissues to room temperature for razor blade safety.\
+• Rinse forceps in MilliQ water after bleach rinse to prevent corrosion of forceps.\
+
+**Quality Control:**\
+• Wear latex or nitrile gloves throughout extraction protocol.\
+• Wipe down all pipettes and bench surface with 10% bleach squirt bottle followed by 70% EtOH squirt bottle before placing bench paper down.\
+• Always use a new razor blade, forceps, and weighing dish when cutting up subsequent tissue and rinse each forceps with bleach and water after each use.\
+• Always use filtered tips and change them each time when adding reagents to samples if tissue is already inside the wells.\
+• Include a negative control for each batch of extractions (1 negative per 8 samples extracted).\
+
+**Equipment and Supplies:**\ *(see Reagent list in SOP Binder for reagent locations)*\
+1. Bench paper\
+2. Gloves\
+3. Bleach\
+4. MilliQ water\
+5. Bleach spray bottle\
+6. Ethanol spray bottle\
+7. MilliQ squirt bottle (benchtop)\
+8. New razor blades (1 per sample)\
+9. Plastic weighing dishes (1 per sample)\
+10. Forceps\
+11. Two Beakers (one for 10% bleach solution, one for MilliQ water)\
+12. Reagent reservoirs and base\
+13. 25 ml graduated cylinder\
+14. Ethanol waste container\
+15. Strip tubes (or 96-well sample plate if preferred)\
+16. Strip tube caps (or aluminum sealing foil - AlumaSeal)\
+17. Pipettes (10μL, 100μL, 1000μL)\
+18. Pipette tips (10μL, 100μL, 1000μL)\
+19. Multi-channel pipettes (20μL, 200μL, 1000μL)\
+20. Multi-channel pipette tips (20μL, 200μL, 1000μL)\
+21. Serological Pipette Controller\
+22. Serological Pipette (10ml)\
+23. 1.7ml tube (or 15ml falcon tube) for mixing\
+24. Magnetic separator (NucleoMag SEP magnetic plate/separation system)\
+25. Vortemp\
+26. Vortex\
+27. Plate centrifuge\
+28. Extraction Reagents:\
+  • MilliQ water\
+  • 100% Ethanol (made fresh to 80% ethanol)\
+  • Proteinase K\
+  • NucleoMag beads\
+  • Lifton’s Buffer (100 mM EDTA, 25 mM tris-HCl pH7.5, 1% SDS: see SOP GE-
+033.00)\
+  • Digestion Master Mix (made fresh: Lifton’s Buffer, 0.075 M DTT, 4.2 mg/ml
+Proteinase K: see Appendix B)\
+  • Hybridization Buffer (2.5 M NaCl, 20% PEG 8000, 0.025 M DTT: see SOP GE-
+034.00)\
+  • Low TE (10 mM tris-HCL pH 7.5, 0.1 mM EDTA: see SOP GE-007.00)\
+**Procedures:**\
+[*Day one – Digestion (Approximate time: 3 hrs for 96 samples)*]{.underline}
+
+  1. Create extraction grid *(see SOP PR-010.00)*\
+  2. Clean the benchtop with bleach and ethanol and cover with new bench paper.\
+  3. Make a 10% bleach solution in a beaker and fill a beaker with MilliQ water, both for rinsing forceps.\
+  4. Set up razor blades, weighing dishes (to cut on), forceps, beakers and PCR rack with strip tubes or 96-well plate.\
+  5. Label the strip tubes or 96-well plate with your initials and dates and mark each
+extraction negative by outlining the top of the wells with a sharpie.\
+  6. Add 80μL Liftons buffer to each well\
+  7. For each sample, use clean forceps, remove tissue from vial, rinse with MilliQ squirt bottle and place in a new weighing dish.\
+  8. Using a new razor blade, cut a piece of tissue approximately 2mm/2mm square. Chop
+tissue into smaller pieces then add to each well. (If working with hatchling biopsy samples, use entire piece, approx. size ~1 x 2 x 0.5mm).\
+  9. Place forceps into bleach-rinse beaker after every sample and then into the MilliQ rinse beaker to use for the next sample. Place used razor blades in the sharps container. Onlyopen one strip cap at a time and reseal when all eight wells are filled to prevent cross contamination of samples.\
+  10. Make Digestion Master Mix – fresh each time *(see Appendix B)*. *It is important that the mix is made just before adding it to the samples, and that it is vortexed. (if using a multichannel pipette, make the mix in a falcon tube, mix then add to a reagent reservoir).\
+  11. Add 40μL of Digestion Master Mix to each well.\
+  12. Make sure all lids are on tight or the plate is sealed with AlumaSeal and vortex to mix.\
+  13. Quickly spin down strip tubes (or plate) in centrifuge to get liquid off the lids/AlumaSeal.\
+  14. Incubate samples in the Vortemp for 55 C for 4 hrs or at 37 C overnight. Make sure the Vortemp is set at 0 RPM. Do not digest at higher temperatures to avoid caps popping off or lifting of the AlumaSeal.\
+[*Day two – Isolating and Purifying DNA*] {.underline}
+
+  1. Quickly centrifuge the plate to collect any condensation, vortex the plate for 30 sec, and spin the plate again\
+  2. If all the tissue is digested, move on to the next step. Otherwise, transfer 80μL of the lysate from the top of the wells to a new plate/strip tubes. [*Leave any solids behind.*]{.underline}\
+
+  3. Add 80μL Hybridization Buffer and 20μL resuspended NucleoMag beads to the lysate.\
+  4. Seal well and vortex to mix or mix by pipetting up and down 10 times.\
+  5. Incubate plate/strip tubes at room temperature for 1 min then quickly spin down the plate.\
+  6. Place on the magnetic separator (~2 min until all the beads have been attracted to the
+magnet).\
+  7. Aspirate the supernatant (approx. 220μL) and discard while seated on the magnetic
+separator. Note: DNA is now bound to the beads.\
+[*Do not disturb the beads while aspirating the supernatant. The magnetic pellet is not visible in this step. Remove supernatant from the opposite side of the well.*]{.underline} \
+
+  8. Remove the plate from the magnetic separator and add 150μL freshly prepared 80% Ethanol.\
+  9. Seal well and vortex or mix by pipetting up and down 10 times to resuspend the beads.\
+  10. Quickly spin down the plate and place back on the magnetic separator.\
+  11. Aspirate the supernatant and discard while seated on the magnetic separator.\
+  12. Repeat steps 8-11 two more times (for a total of three washes).\
+  13. Allow the beads to air dry while seated on the magnetic separator (for approx. 10 min)
+[*It is very important that Ethanol is not carried over.*]{.underline}\
+
+  14. Elute DNA by adding 50μL-100 μL Low TE to each well.\
+  15. Remove from the magnetic separator, seal and vortex or mix by pipetting up and down 10
+times to resuspend the beads.\
+  16. Incubate for 5 min at room temperature.\
+  17. Place plate on the magnetic separator (~2 min until all the beads have been attracted to
+the magnet) and remove the supernatant containing the DNA to a new plate/strip tubes.\
+  18. DNA is ready to use.\
+  19. Cap/seal, label and store the used sample tubes until the negatives have been determined
+clean.\
+  20. Enter extractions into Extraction Database (see SOP PR-010.00).\
+**Waste Management:**\
+Dispose of used razor blades in a designated sharps container. Bleach solution and water should
+be rinsed down the sink. The Ethanol waste should be discarded in the “Ethanol Waste”
+container stored in the flammable cabinet in the General Lab. Plastics and other liquids can be
+thrown in the trash. If there are questions on handling chemicals contact the Safety Officer or
+Lab Manager. Spills, cuts or other accidents should be reported to the Safety Officer and Lab
+Manager.\
+**References:**\
+Modified from Sean O’Rourke, Mike Miller. “Easy UCD DNA digests”. April 2015.\
+For SDS information, go to C:\\Users\ljuser\Desktop\MMTD Genetics SDS (see Lab Manager for designated computers).
+
+**Hazardous substance information: **\
+<https://epa.gov/ceppo/pubs/title3.pdf>
+ 
+**Appendix A: Chemical Health and Safety Warnings**
+
+**Bleach**\
+Irritating to eyes and skin. Harmful if swallowed.\
+[First Aid]{.underline} \
+*Eyes* - flush with water for 15-20 minutes. Call a physician.\
+*Skin* - Wash skin with water for 15-20 minutes. If irritation develops, call a physician.\
+*Ingestion* - Do not induce vomiting. Drink a glassful of water. If irritation develops, call a
+physician.\
+*Inhalation* - Remove to fresh air. If breathing is affected, call a physician.\
+
+**DTT**\
+Harmful by inhalation, contact with skin and if swallowed.\
+[First Aid]{.underline} \
+Symptoms of poisoning may even occur after several hours; therefore medical
+observation for at least 48 hours after the accident. Supply fresh air. If required provide
+artificial respiration. In case of contact with eyes, flush with copious amounts of water. If
+swallowed contact physician immediately.\
+
+**EDTA**\
+Irritating to the eyes, skin and the mucous membrane of the upper respiratory tract. It is
+flammable –do not expose to heat or flame. Flame caused by EDTA can be extinguished
+by carbon dioxide, foam, water or dry chemicals. EDTA has emerged as a persistent
+organic pollutant.\
+[First Aid]{.underline} \
+*Skin*: rinse with water immediately\
+*Eye contact*: wash with water immediately and contact a physician right away.
+
+**Ethanol (ETOH)**\
+Highly flammable. Causes moderate skin irritation. Inhalation may cause respiratory
+tract irritation, nausea, headaches, dizziness and suffocation.\
+[First Aid]{.underline} \
+*Inhalation*: supply fresh air and oxygen\
+*Eyes*: rinse opened eye for at least 15 minutes under running water\
+*Skin*: remove contaminated clothing and immediately wash area with soap and water.\
+*Ingestion*: wash mouth with water and seek medical attention. Do not induce vomiting.\
+
+**NucleoMag Beads**\
+No SDS needed\
+
+**PB (Proteinase Buffer)**\
+No SDS needed\
+
+**PEG-4000 (50%)**\
+Occupational exposure presents little or no health hazard. Potential effects include:
+irritation of the eye, skin irritation, or nausea and vomiting if ingested.\
+[First Aid]{.underline} \
+*Eyes*: flush with water for at least 15 minutes. See a doctor if symptoms develop.\
+*Skin*: wash with soap and water. See a doctor if symptoms develop.\
+*Ingestion*: wash out mouth completely with water if person is conscious. Seek medical
+attention if symptoms develop.\
+
+**Proteinase K**\
+Sensitizer and irritant. Irritating to the eyes, respiratory system and skin. It may cause
+respiratory sensitization by inhalation and skin corrosion/irritation with contact.\
+[First Aid]{.underline} \
+*Eyes*: rinse immediately with plenty of water and seek medical advice.\
+*Inhalation*: If experiencing respiratory symptoms seek medical attention.\
+
+**SDS**\
+Respiratory, skin and eye irritant. Harmful if swallowed, inhaled or absorbed through the
+skin.\
+[First Aid]{.underline} \
+*Inhalation*: move to fresh air; give artificial respiration or oxygen if needed\
+*Eyes*: flush with water\
+*Skin*: contact, remove contaminated clothing, shoes, or contact lenses; flush with copious
+amounts of water.\
+*Ingestion*: wash out mouth with water if person is conscious. Seek medical attention.\
+
+**Tris HCl**\
+Irritating to the eyes, skin, mucous membrane and the upper respiratory tract. When
+inhaled, it can cause irritation, cough and shortness of breath. Chronic ingestion can
+cause nausea, vomiting and diarrhea; large amounts can cause weakness, collapse and
+coma. Exposing the substance to excessive heat may cause thermal decomposition and
+produce toxic fumes like carbon monoxide.\
+[First Aid]{.underline} \
+*Eyes*: flush with water for 15 minutes\
+*Skin*: flush with water and wash thoroughly with soap and water. Remove contaminated
+clothing. Get medical attention if irritation persists.\
+*Inhalation*: remove victim from area of exposure and move him/her to fresh air.\
+*Ingestion*: drink water and seek immediate medical attention\
+
+**Sodium Chloride (solid NaCl)**\
+Slightly hazardous in case of skin contact (irritant), eye contact (irritant), ingestion, or
+inhalation.\
+[First Aid]{.underline} \
+*Eyes*: Immediately flush eyes with plenty of water for at least 15 minutes.\
+*Skin*: wash with soap and water and cover the irritated skin with an emollient.\
+*Inhalation*: move to fresh air\
+*Ingestion*: do not induce vomiting unless directed to do so by medical personnel\
+
+**Additional Safety Information**\
+[***Blade Safety***]{.underline}\
+Our most common lab accident is razor blade and scalpel cuts. These range in severity from a
+minor cut with a clean blade to severing tendons with a dirty blade. Since we are often working
+with dead mammal tissue, infection from a dirty blade is almost a guarantee. Usually you are
+started on antibiotics, and sometimes stitches or even surgery are required. We can avoid these
+accidents if we really take our use of blades seriously and follow a few good practices.\
+When to use a blade:\
+• Razor blades and scalpels are for working with small pieces of tissue. If your sample is
+large use an appropriate knife.\
+• Only use a blade on tissue that requires very little force applied (the amount you might
+apply to cut a piece of toast). If you have to press hard you’ve got the wrong tool and are
+endangering yourself.\
+Good practices with a blade:\
+• Cut away from yourself. I know you know, but we all cheat on this one and if we didn’t
+there would be a lot less accidents …and in the lab environment the accidents can be
+severe.\
+• Use something other than your hand/fingers to hold the sample in place. Since it is a
+small sample you should be able to use things like forceps, a toothpick, a needle, etc.
+• Let your piece thaw enough to allow you to cut it easily (again like toast).\
+• Look at the blade before you cut. There have been times when people have pushed down
+on the wrong edge of a razor blade, or grabbed the wrong end of the scalpel.\
+• Never apply force at an angle. Cut straight down etc. Blades can snap when oblique force
+is applied and the pieces go airborne.\
+• Wear safety glasses.\
+• Report all cuts to the Lab Manager and Safety Officer\
+
+**Appendix B: Digestion Master Mix**\
+*Important to make fresh each time*
+[Equipment and Supplies:]{.underline}\
+• Lifton’s Buffer\
+• DTT (1M)\
+• Proteinase K (4.2 mg/ml)\
+• Pipettes (10μL, 100μL, 1000μL)\
+• Pipette tips (20μL, 100μL, 1000μL)\
+• Multi-channel pipette (20μL, 1000μL)\
+• Multi-channel pipette tips (20μL, 1000μL)\
+• Serological Pipette Controller\
+• Serological Pipette Tip (10ml)\
+• 1.7 ml tube (or 15ml falcon tube) for mixing\
+• Reagent reservoir\
+[*To make 1X you will need to add (in a 1.7ml tube):*]{.underline}\
+20 μL Lifton’s buffer\
+17 μL Proteinase K (10 mg/ml)\
+3.0 μL DTT (1 M)\
+[*To make enough for a full plate (110X) you will need to add (in a 15ml conical tube):*]{.underline}\
+2.2 ml Lifton’s buffer\
+1.87 ml Proteinase K (10 mg/ml)\
+330 μL DTT (1M)\

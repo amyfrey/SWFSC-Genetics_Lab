@@ -1,0 +1,7 @@
+# Pre-PCR Lab (SOP's) {.unnumbered}
+
+A comprehensive list of Standard Operating Procedures (i.e. protocols) for use in the Pre-PCR lab can be found below. 
+
+## PR-034.00
+
+{{< include NucleoMag_manual.qmd >}}

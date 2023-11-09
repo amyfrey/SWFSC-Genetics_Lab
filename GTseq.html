@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.353">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>gtseq</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="GTseq_files/libs/clipboard/clipboard.min.js"></script>
+<script src="GTseq_files/libs/quarto-html/quarto.js"></script>
+<script src="GTseq_files/libs/quarto-html/popper.min.js"></script>
+<script src="GTseq_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="GTseq_files/libs/quarto-html/anchor.min.js"></script>
+<link href="GTseq_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="GTseq_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="GTseq_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="GTseq_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="GTseq_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+
+
+</head>
+
+<body class="fullcontent">
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+
+<main class="content" id="quarto-document-content">
+
+
+
+<section id="procedure-to-prepare-gtseq-ngs-library-ng-007.00" class="level1 unnumbered">
+<h1 class="unnumbered">Procedure to Prepare GTseq NGS Library NG-007.00</h1>
+<p>SOP IDENTIFIER: NG-007.00<br>
+ORIGINAL SOP DATE: 10/30/2019<br>
+NUMBER OF PAGES IN SOP: 3<br>
+REVISION NUMBER: 00<br>
+REVISION DATE: N/A<br>
+WRITTEN BY: Amy Frey<br>
+REVIEWED BY: Erin LaCasella<br>
+APPROVED BY: Victoria Pease 5/25/2023<br>
+EFFECTIVE DATE: 03/31/2020<br>
+</p>
+<p><strong>Scope and Purpose:</strong><br>
+The purpose of this procedure is to prepare a next generation sequencing library for SNP genotyping.<br>
+</p>
+<p><strong>Summary of Method: </strong><br>
+The method consists of two PCR reactions, the first is a locus specific multiplex PCR and the second is to add the plate and individual indexes which will allow the PCR products to be pooled together. Prior to pooling, the PCR products are normalized using SequelPrep normalizations plates. Once the samples from each plate are pooled an Ampure bead cleanup is done, the pooled plates are quantified using qPCR, and then multiple plates can be pooled to prepare the final library for sequencing.<br>
+</p>
+<p><strong>Health and Safety Warnings:</strong><br>
+• Wear latex or nitrile gloves, lab coat, closed-toe shoes and safety glasses.<br>
+• This procedure uses chemicals that may be harmful. Please read Appendix A before performing this protocol.<br>
+</p>
+<p><strong>Quality Control:</strong><br>
+• Wear latex or nitrile gloves throughout protocol.<br>
+• Wipe down surface area and pipettes with bleach/EtOH mixture to sterilize surfaces before and after use.<br>
+• Portions of the protocol should be performed in the Post-PCR labs; do not perform in the Pre-PCR labs.<br>
+</p>
+<p><strong>Equipment and Supplies:</strong><br>
+1. 96-well semi-skirted plate<br>
+2. Pipettes (10ul, 100ul, 1000ul)<br>
+3. Pipette tips (10ul, 100ul, 1000ul)<br>
+4. Thermocycler<br>
+5. 96-well non-skirted plate<br>
+6. PCR seals<br>
+7. Alumaseal<br>
+8. Multichannel Pipettes (10ul, 200ul)<br>
+9. Multichannel Pipette tips (10ul, 200ul)<br>
+10. Multichannel reagent basins<br>
+11. SequelPrep Normalization Plates<br>
+12. Tubes (strip, 1.7ml)<br>
+13. Strip tube caps<br>
+14. Magnetic plate<br>
+15. Qubit<br>
+16. Real-time PCR cycler-Mx 3005P qPCR machine<br>
+17. Bioanalyzer<br>
+18. Mini vortexer<br>
+19. Mini centrifuge for strip tubes<br>
+20. Plate centrifuge<br>
+21. Reagents:<br>
+• ExoSAP<br>
+• Locus Specific Primers (contact PI for those)<br>
+• Qiagen Multiplex Plus PCR master mix<br>
+• GTseq specific i5 Indexing primers (one per plate of DNA)<br>
+• i7 Indexing primers (96 for a full plate)<br>
+• SequelPrep Normalization Binding Buffer<br>
+• SequelPrep Normalization Wash Buffer<br>
+• SequelPrep Normalization Elution Buffer<br>
+• Ampure XP beads<br>
+• Fresh 70% ethanol<br>
+• 1x TE buffer<br>
+• EBT buffer (990ul EB buffer, 10ul Tween-20)<br>
+• Reagents for qPCR Kapa Quantification (PR-037.00 Quantify using KAPA standards with SYBR mix)<br>
+• Reagents for Qubit quantification (PR-038.00 Procedure to quantify using the Qubit)<br>
+• Reagents for Bioanalyzer High sensitivity kit (NG-004.00 Procedure to quantify using the Bioanalyzer)<br>
+</p>
+<p><strong>Procedures:</strong><br>
+&nbsp;1. Prepare genomic DNA (gDNA) for protocol<br>
+&nbsp;&nbsp;&nbsp;&nbsp;a. Normalize DNA into semi-skirted plate. Target concentration is 100ng in a volume of 10ul, so 10ng/ul. Seal with caps and freeze until needed.<br>
+&nbsp;2. Prepare GTseq primer mix:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;a. Add 2.5ul of each locus specific GTseq primer (100nM) together and bring to a final volume of 1000ul with milliQ water. <strong><em>NOTE</em></strong>: This amount may be adjusted depending on the number of plates of DNA that you will be amplifying, each plate of DNA uses ~160ul of primer mix.<br>
+3. ExoSAP treatment of gDNA (optional step)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;a. Add 3ul of ExoSAP to each well of the normalized DNA plate, with 10ul gDNA<br>
+&nbsp;&nbsp;&nbsp;&nbsp;b. Place on a thermocycler<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. 37º C 60 minutes, 80º C 20 minutes, 4º C hold<br>
+4. Locus specific PCR (PCR 1)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;a. Prepare PCR master mix<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. 1.5ul locus specific primer mix (per rxn)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. 3.5ul Qiagen Multiplex Plus PCR master mix (per rxn)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;b. Add 5ul PCR master mix to each well of 96 well non-skirted PCR plate, followed by 2ul of gDNA<br>
+&nbsp;&nbsp;&nbsp;&nbsp;c.&nbsp;Seal with heat seal or caps, vortex and spin down<br>
+&nbsp;&nbsp;&nbsp;&nbsp;d.&nbsp;Thermocycler conditions:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. 95º C 15 minutes (initial denaturation)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. 5 cycles of 95º C 30 sec., 57º C 30 sec.(5% ramp), 72º C 2 min. (targets gDNA)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. 10 cycles of 95º C 30 sec., 65º C 30 sec., 72º C 30 sec.&nbsp;(replicating target DNA)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iv. 4º C hold<br>
+5. Dilute Locus specific PCR (PCR 1) to1:20, perform in Post PCR lab only<br>
+&nbsp;&nbsp;&nbsp;&nbsp;a. Add 133ul milliQ water directly to each well of plate from PCR 1<br>
+&nbsp;&nbsp;&nbsp;&nbsp;b. Seal with Alumiseal, vortex and spin down<br>
+6. Index PCR (PCR 2)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;a. Prepare PCR master mix<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. 5ul Qiagen Multiplex Plus PCR master mix<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. 1ul Desired plate (P5 index_#) index primer (10uM)<br>
+&nbsp;&nbsp;&nbsp;&nbsp; b. Add 6ul PCR master mix to each well<br>
+&nbsp;&nbsp;&nbsp;&nbsp;c.&nbsp;Add 1ul of individual (Sol_PCR_MPI_#) index primer (10uM) to each well <strong><em>Note</em></strong>: there is a plate of i7 primers already prepared, the index layout is shown in Appendix B<br>
+&nbsp;&nbsp;&nbsp;&nbsp;d.&nbsp;Take plate to Post PCR lab and add 3ul of diluted product from PCR 1 to each well.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;e. Seal with heat seal or caps, vortex and spin down<br>
+&nbsp;&nbsp;&nbsp;&nbsp;f.&nbsp;Thermocycler conditions:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. 95º C 15 min.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. 10 cycles of 95º C 10 sec., 65º C 30 sec., 72º C 30 sec.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. 72º C 5 min.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iv. 4º C hold<br>
+7. SequelPrep Normalization<br>
+&nbsp;&nbsp;&nbsp;&nbsp; a. Binding step<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Using a multichannel pipette add 10ul binding buffer to each well<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. Vortex and briefly centrifuge PCR 2<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. Using a multichannel pipette and a full box of tips, transfer 10ul of PCR 2 to SequelPrep Normalization plate. <strong><em>Note</em></strong>: some wells may have less than 10ul due to evaporation, proceed anyway, just transfer everything.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iv. Seal with Alumaseal, vortex and briefly spin.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;v. Incubate plate at room temperature for 1 hour. <strong><em>Note</em></strong>: more than an hour is okay, but no overnight, 1-2 hrs is fine.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;b. Washing step<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Briefly spin, and remove Aluma seal.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. Carefully aspirate all of the liquid from the well taking extra care not to scrape the side of the wells, it is fine to use the same 8 tips for the entire plate.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. Using a multichannel pipette, dispense 50ul wash buffer into every well.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iv. Once the wash buffer has been added to each well, use the multichannel and the same 8 tips to flush the wells by pipetting up and down twice and then completely aspirating the buffer from the wells and discarding. Again taking caution to not scrape the sides of the wells.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;v. Once the wash buffer has been aspirated from each well, invert and tap (aggressively) the plate onto paper towels in order to remove any residual wash buffer from the wells. <strong><em>Note</em></strong>: A small amount of wash buffer (1-3ul) remaining is typical and will not affect downstream applications.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;c.&nbsp;Elution step<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Using multichannel pipette, add 20ul of SequelPrep Normalization Elution buffer to each well.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. Seal with Alumaseal, vortex and briefly spin<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. Incubate at room temperature for 5 minutes<br>
+8. Pool plate &nbsp;&nbsp;&nbsp;&nbsp;a. Using a multichannel pipette, take 10ul from each well of the SequelPrep normalized plate and combine into strip tube and then into a 1.7ml tube, or a boat to a 1.7ml tube.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;b. SequelPrep Plate can be discarded at this point, or if preferred saved until library is complete.<br>
+9. Bead Size selection<br>
+&nbsp;&nbsp;&nbsp;&nbsp;a. Removing long sequences (&gt; 300bp)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Pull 50ul from each plate pool and place into a strip tube<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. Vortex Ampure XP beads well<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. Add 25ul of beads to each strip tube well (1:0.5 ratio)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iv. Mix well, and incubate for 5 min.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;v. Transfer strip tubes to magnetic plate and let sit for 3 min.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vi. Carefully remove the supernatant from the beads and transfer to a new set of strip tubes, discard the beads. <strong><em>Note</em></strong>: the unwanted long sequences, &gt;300bp are attached to the beads<br>
+&nbsp;&nbsp;&nbsp;&nbsp;b. Removing the short sequences (&lt;100bp)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Vortex the Ampure XP beads well<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. Add 35ul of beads to each strip tube with the supernatant<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. Mix well, and incubate for 5 min.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iv. Transfer strip tubes to magnetic plate and let sit for 3 min.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;v. Carefully remove and discard the supernatant. <strong><em>Note</em></strong>: the undesirable short sequences &lt;100bp are in the supernatant.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;c.&nbsp;Wash step<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Prepare fresh 70% ethanol, 1ml is enough for 2.5 tubes.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. While still on the magnetic plate, gently add 200ul of fresh 70% ethanol to the strip tubes containing the beads, incubate at room temp for 30 sec., remove ethanol from strip tube and discard.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. Repeat<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iv. Remove strip tube from magnetic plate and allow any residual ethanol to evaporate by letting stand for 10 min (no more than 15 min) uncovered. <strong><em>Note</em></strong>: you should observe the beads starting to dry and crack, this is good<br>
+&nbsp;&nbsp;&nbsp;&nbsp;d.&nbsp;Elute<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Add 15ul 1x TE to strip tube containing beads and mix well to elute. Ensure that TE washed beads from side of the tube, beads should be dissolved into TE.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. Place on the magnetic plate for 2 minutes<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. Collect the cleared supernatant and transfer to new strip tube<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iv. Add 1.5ul EBT (EB containing 1% Tween-20)<br>
+10. Plate quantification<br>
+We have 3 options for quantifying pooled plates:<br>
+1) qPCR using the KAPA kit (PR-037.00 Quantify using KAPA standards with SYBR mix). Note: It is recommended to do 2-3 replicates of 3 dilutions such as 1:5000, 1:10000, and 1:50000<br>
+2)Qubit (PR-038.00 Procedure to quantify using the Qubit)<br>
+3) Bioanalyzer (NG-004.00 Procedure to quantify using the Bioanalyzer).<br>
+It is recommended to quantify with multiple methods and review results with PI to plan for pooling plates.<br>
+11. Normalize plate pools to between 2.5nM -5nM (the final concentration may vary based on plate quantification outcome and PI recommendations)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;a. Starting with 10ul of BSS DNA (bead size selected DNA)<br>
+EXAMPLE: 10ul BSS DNA x 15.73nM (qPCR conc.) / 5nM (agreed upon conc) = 31.46ul -10ul BSS DNA = 21.46 ul TE/Tween So you would take 10ul of BSS DNA + 21.46ul TE/Tween to dilute it to 5nM<br>
+<strong><em>Note</em></strong>: see Appendix C for converting from ng/ul to nM<br>
+&nbsp;&nbsp;&nbsp;&nbsp;b. Combine 5ul of each normalized pooled plate to make your final library. <strong><em>Note</em></strong>: it is good practice to also quantify the pooled library before sending to the sequencing facility or loading onto the MiSeq. Refer to step 10 above for quantification methods.<br>
+12. If running library on MiSeq in house, refer to NG-004.00 Procedure to run the MiSeq.<br>
+<strong>Waste Management:</strong> Plastics and other liquids can be thrown in the trash. If there are questions on handling chemicals contact the Safety Officer or Lab Manager. Spills, cuts or other accidents should be reported to the Safety Officer and Lab Manager.</p>
+<p><strong>References:</strong> For SDS information, go to C:\UsersGenetics SDS (see Lab Manager for designated computers).</p>
+<p><strong>Hazardous substance information: </strong><br>
+<a href="https://epa.gov/ceppo/pubs/title3.pdf" class="uri">https://epa.gov/ceppo/pubs/title3.pdf</a></p>
+<p><strong>Appendix A: Chemical Health and Safety Warnings</strong></p>
+<p><strong>Exonuclease 1 and Shrimp Alkaline Phosphatase</strong><br>
+Contains glycerol which is an irritant.<br>
+<u>First Aid</u><br>
+<em>Eyes:</em> flush with water for 15 minutes. Seek medical advice if irritation persists.<br>
+<em>Skin:</em> flush with water, then wash thoroughly with soap and water. Remove contaminated clothing and wash before reuse. Seek medical attention if irritation persists.<br>
+<em>Inhalation:</em> remove the victim from exposure and move to fresh air. If breathing is difficult, give oxygen. If not breathing, give artificial respiration.<br>
+<em>Ingestion:</em> drink water and seek immediate medical attention.<br>
+</p>
+<p><strong>Ethanol (ETOH)</strong> Highly flammable. Causes moderate skin irritation. Inhalation may cause respiratory tract irritation, nausea, headaches, dizziness and suffocation.<br>
+<u>First Aid</u><br>
+<em>Inhalation:</em> supply fresh air and oxygen<br>
+<em>Eyes:</em> rinse opened eye for at least 15 minutes under running water<br>
+<em>Skin:</em> remove contaminated clothing and immediately wash area with soap and water.<br>
+<em>Ingestion:</em> wash mouth with water and seek medical attention. Do not induce vomiting.<br>
+</p>
+<p><strong>EBT buffer/ EB buffer</strong><br>
+No MSDS needed<br>
+</p>
+<p><strong>Tween-20</strong><br>
+May cause eye, skin, and respiratory tract irritation<br>
+<u>First Aid</u><br>
+<em>Eyes:</em> Immediately flush eyes with plenty of water for at least 15 minutes, occasionally lifting the upper and lower eyelids. If irritation develops, get medical aid.<br>
+<em>Skin:</em> Immediately flush skin with plenty of water for at least 15 minutes while removing contaminated clothing and shoes. Get medical aid if irritation develops or persists.<br>
+<em>Ingestion:</em> Do not induce vomiting. Get medical aid if irritation or symptoms occur.<br>
+<em>Inhalation:</em> Remove from exposure and move to fresh air immediately. If not breathing, give artificial respiration. If breathing is difficult, give oxygen. Get medical aid if cough or other symptoms appear.<br>
+<strong>TE Buffer (Tris and EDTA)</strong><br>
+Can cause damage to the kidneys, central nervous system and reproductive systems. It can cause skin, eye, digestive tract and respiratory irritation as well.<br>
+<u>First Aid</u><br>
+<em>Eye contact:</em> flush eyes with water for at least 15 minutes while occasionally opening and closing eyelids. Seek medical attention immediately.<br>
+<em>Skin:</em> wash skin with lots of water and soap. Wash clothes before wearing them again and see a doctor if further skin irritation occurs.<br>
+<em>Ingestion:</em> drink 2-4 cups of milk if conscious and then seek medical aid.<br>
+<em>Inhalation:</em> seek fresh air immediately. If user has trouble breathing, give him/her oxygen and seek medical attention.<br>
+<strong>Tris</strong><br>
+Irritating to the eyes, skin, mucous membrane and the upper respiratory tract. Signs and symptoms of exposure include watery eyes and rough, red skin. When inhaled, it can cause irritation, cough and shortness of breath. Exposing the substance into excessive heat may cause thermal decomposition and produce toxic fumes like carbon monoxide. It is incompatible with oxidizing materials.<br>
+<u>First Aid</u><br>
+<em>Eyes:</em> flush with water for 15 minutes.<br>
+<em>Skin:</em> flush with water and wash thoroughly with soap and water. Remove contaminated clothing. If irritation persists, seek medical advice.<br>
+<em>Inhalation:</em> move victim to fresh air.<br>
+<em>Ingestion:</em> drink water and seek immediate medical attention.<br>
+<strong>EDTA</strong><br>
+Irritating to the eyes, skin and the mucous membrane of the upper respiratory tract. It is flammable –do not expose to heat or flame. Flame caused by EDTA can be extinguished by carbon dioxide, foam, water or dry chemicals. EDTA has emerged as a persistent organic pollutant.<br>
+<u>First Aid</u><br>
+<em>Skin:</em> rinse with water immediately<br>
+<em>Eye contact:</em> wash with water immediately and contact a physician right away.<br>
+</p>
+<p><strong>Appendix B: i7 index primer plate layout</strong><br>
+<img src="img/fi7indexplate.png" class="img-fluid"></p>
+</section>
+
+</main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>

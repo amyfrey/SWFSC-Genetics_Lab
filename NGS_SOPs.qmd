@@ -1,0 +1,7 @@
+# Next Generation Sequencing (NGS) SOP's {.unnumbered}
+
+A comprehensive list of Standard Operating Procedures (i.e. protocols) used when working with Next Generation Sequencing Procedures can be found below. 
+
+## Ng-007.00
+
+{{< include GTseq.qmd >}}
