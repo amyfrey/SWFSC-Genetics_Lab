@@ -8,3 +8,6 @@ A comprehensive list of Standard Operating Procedures (i.e. protocols) for use i
 ## GE-001.00
 
 {{< include 25xTBE.qmd >}}
+
+## GE-002.00
+{{< include PKbuffer.qmd >}}

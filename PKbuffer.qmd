@@ -1,0 +1,101 @@
+
+# Procedure to Make Proteinase K (PK) Buffer GE-002.00 {.unnumbered}
+SOP IDENTIFIER:	GE-002.00\
+ORIGINAL SOP DATE:	6/27/2011\
+NUMBER OF PAGES IN SOP:	4\
+REVISION NUMBER:	00\
+REVISION DATE:	N/A\
+WRITTEN BY:	Gabriela Serra-Valente\
+REVIEWED BY:	Amy Jue\
+APPROVED BY:	Victoria Pease 3/6/2019\
+EFFECTIVE DATE:	\
+ 
+**Scope and Purpose:**\
+To make Proteinase K (PK) buffer to be used for making PK solution (see SOP PR-014.00).
+
+**Summary of Method: **\
+Buffer is made by combining Tris-HCL, Glycerol and CaCl and dissolving them in MilliQ water.
+
+**Health and Safety Warnings:**\
+•	This procedure uses chemicals that may be harmful.  Please read Appendix A before performing this protocol.\
+•	Wear gloves, lab coat, closed-toe shoes and safety glasses.Use respirators if needed.\
+
+**Quality Control:**\
+•	Wear latex or nitrile gloves, closed-toe shoes and a lab coat.\
+• Wipe down surface area and pipettes with bleach/EtOH mixture to sterilize surfaces
+before and after use.\
+• Make sure all equipment has been properly cleaned and sterilized.\
+• Store at room temperature in tightly closed containers.\
+• Perform procedure in general lab.\
+
+**Equipment and Supplies:**\
+• Bench Paper\  
+• Gloves\
+• One 250ml orange capped bottle, sterile\
+• Reagent scale\
+• One 100ml graduated cylinder\
+• Plastic weighing dish\
+• Scoopula/spatula\
+• Pipette (1000ul)\
+• Pipette tips (1000ul)\
+• Stir plate\
+• Stir bar\
+• Stir spoon\
+• 1M Tris-HCL, pH8.0 (see SOP GE-020.00)\
+• Glycerol\
+• Calcium Chloride (solid CaCl2)\
+• MilliQ water\
+
+**Procedures:**\
+To make 100ml:\
+1. Measure and add to the bottle:\
+• 50ml of Glycerol\
+• 1ml of 1M Tris-HCL, pH8.0\
+• 0.29g of CaCl2\
+2. Bring solution in the bottle to 100ml with MilliQ water.\
+3. Place stir bar in bottle, and place bottle on a stir plate; set the stir plate on low speed, no
+heat.\
+4. Stir until solution is thoroughly mixed and CaCl2 is fully dissolved.\
+5. Remove bottle from stir plate and retrieve stir bar with stir spoon.\
+6. Store at room temperature.\
+7. Label bottle with date and initials.\
+8. Clean all instruments used.\
+
+**Waste Management:**
+If there are questions on handling chemicals contact the Safety Officer or Lab Manager. Spills, cuts or other accidents should be reported to the Safety Officer and Lab Manager.\
+
+**References:**
+For SDS information, go to C:\\Users\ljuser\Desktop\MMTD Genetics SDS (see Lab Manager for designated computers).
+
+**Hazardous substance information: **\
+<https://epa.gov/ceppo/pubs/title3.pdf>
+ 
+**Appendix A: Chemical Health and Safety Warnings**
+
+**Calcium Chloride (CaCl2)**\
+Irritating to eyes, skin and respiratory tract. Dust-like, avoid breathing in.\
+[First Aid]{.underline} \
+*Eye contact:* Flush immediately with water. \
+*Skin:* Flush immediately with water.\
+*Inhalation:* seek fresh air immediately.\
+
+**Glycerol**\
+Irritating to eyes, skin and respiratory tract. Wear appropriate personal protection
+equipment when handling this compound. \
+[First Aid]{.underline}\
+*Eyes:* flush immediately with water.\
+*Skin:* flush immediately with water.\
+*Inhalation:* seek fresh air immediately.\
+
+**Tris HCL**\
+Irritating to the eyes, skin, mucous membrane and the upper respiratory tract. When
+inhaled, it can cause irritation, cough and shortness of breath. Chronic ingestion can
+cause nausea, vomiting and diarrhea; large amounts can cause weakness, collapse and
+coma. Exposing the substance to excessive heat may cause thermal decomposition and
+produce toxic fumes like carbon monoxide.\
+[First Aid]{.underline} \
+*Eye contact:* flush with water for 15 minutes\
+*Skin:* flush with water and wash thoroughly with soap and water. Remove contaminated
+clothing. Get medical attention if irritation persists.\ 
+*Inhalation:* remove victim from area of exposure and move him/her to fresh air.\
+*Ingestion:*drink water and seek immediate medical attention.\
