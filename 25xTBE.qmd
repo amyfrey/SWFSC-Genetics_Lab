@@ -1,0 +1,96 @@
+
+# Procedure to Make 25X TBE Buffer GE-001.00 {.unnumbered}
+SOP IDENTIFIER:	GE-001.00\
+ORIGINAL SOP DATE:	9/01/2008\
+NUMBER OF PAGES IN SOP:	5\
+REVISION NUMBER:	00\
+REVISION DATE:	N/A\
+WRITTEN BY:	Louella Dolar	9/01/2008\
+REVIEWED BY:	Amy Frey	10/01/2008\
+APPROVED BY:	Victoria Pease 4/27/2023\
+EFFECTIVE DATE:	09/25/2018\
+ 
+**Scope and Purpose:**\
+This SOP describes the process to make 25X TBE buffer to be used for electrophoresis.
+
+**Summary of Method: **\
+Buffer is made by combining Tris base, Boric Acid and Ethylenediaminetetraacetic Acid (EDTA); then dissolving them in MilliQ water.
+
+**Health and Safety Warnings:**\
+•	This procedure uses chemicals that may be harmful.  Please read Appendix A before performing this protocol.\
+•	Wear gloves, lab coat, closed-toe shoes and safety glasses.Use respirators if needed.\
+
+**Quality Control:**\
+•	Store in the refrigerator in a tightly closed container\
+•	Perform procedure in general lab\
+
+**Equipment and Supplies:**\
+1. Funnel\
+2. Reagent scale\
+3. Graduated cylinder\
+4. 0.47um HA Millipore filter paper\
+5. Filter/stopper for flask\
+6. Side arm filter flask\
+7. 2-1L orange screw cap bottle\
+8. Vacuum pump\
+9. Stir plate\
+10. Stir bar\
+11. Tris Base (non HCL, biological/molecular grade)\
+12. Boric Acid (biological/molecular grade)\
+13. EDTA (Ethylenediaminetetraacetic Acid, biological/molecular grade)\
+
+**Procedures:**\
+To make 1L:\
+1. Combine:\
+• 270.0g Tris Base (non HCl)\
+• 137.5g Boric Acid\
+• 20.75g EDTA\
+2. Bring to 950ml with MilliQ water.\
+3. Place stir bar in bottle and place cap on loosely. Place the bottle on the stir plate and set the stir plate to low heat and medium to high speed.\
+4. Stir until fully dissolved (approximately 2 hours with heat).
+5. Bring to 1000ml with MilliQ water.\
+6. Attach the vacuum pump to the side arm filter flask.\
+7. Put filter paper on the filter (between the two pieces) and place the filter/stopper in the flask, creating a seal for the vacuum.\
+8. Filter small portions of solution at a time, changing the filter every other time.\
+9. Transfer to a 1L orange screw cap bottle.\
+10. Refer to SOP GE-023.00 for pH protocol. pH should be between 8.0-8.4 at room temperature.\
+11. Autoclave for 20 minutes to keep TBE in solution.\
+12. Store at room temperature.\
+13. Discard when precipitate appears on bottom of bottle.\
+**Waste Management:**
+If there are questions on handling chemicals contact the Safety Officer or Lab Manager. Spills, cuts or other accidents should be reported to the Safety Officer and Lab Manager.\
+
+**References:**
+For SDS information, go to C:\\Users\ljuser\Desktop\MMTD Genetics SDS (see Lab Manager for designated computers).
+
+**Hazardous substance information: **\
+<https://epa.gov/ceppo/pubs/title3.pdf>
+ 
+**Appendix A: Chemical Health and Safety Warnings**
+
+**TBE Buffer (Tris, Boric Acid, and EDTA)**\
+Can cause damage to the kidneys, central nervous system and reproductive systems. It can cause skin, eye, digestive tract and respiratory irritation as well. \
+[First Aid]{.underline} \
+*Eye contact:* flush eyes with water for at least 15 minutes while occasionally opening and closing eyelids.  Seek medical attention immediately. \
+*Skin:* wash skin with lots of water and soap.  Wash clothes before wearing them again and see a doctor if further skin irritation occurs.\
+*Ingestion:* drink 2-4 cups of milk if conscious and then seek medical aid.\
+*Inhalation:* seek fresh air immediately.  If user has trouble breathing, give him/her oxygen and seek medical attention.\
+**Tris**\
+Irritating to the eyes, skin, mucous membrane and the upper respiratory tract.  Signs and symptoms of exposure include watery eyes and rough, red skin. When inhaled, it can cause irritation, cough and shortness of breath.  Exposing the substance into excessive heat may cause thermal decomposition and produce toxic fumes like carbon monoxide. It is incompatible with oxidizing materials. \
+[First Aid]{.underline}\
+*Eyes:* flush with water for 15 minutes.\
+*Skin:* flush with water and wash thoroughly with soap and water.  Remove contaminated clothing. If irritation persists, seek medical advice.\
+*Inhalation:* move victim to fresh air.\
+*Ingestion:* drink water and seek immediate medical attention.\
+**Boric Acid**\
+Hazardous in case of skin contact (irritant), of eye contact (irritant), of ingestion, of inhalation. Slightly hazardous in case of skin contact (permeator). Boric Acid may be harmful to reproductive systems. The substance can be toxic to kidneys, cardiovascular systems and the central nervous system.\
+[First Aid]{.underline} \
+*Eye contact:* In case of contact, immediately flush eyes with plenty of water for at least 15 minutes. Cold water may be used. Get medical attention.
+*Skin:* In case of contact, immediately flush skin with plenty of water. Cover the irritated skin with an emollient. Remove contaminated clothing and shoes. Cold water may be used. Wash clothing before reuse. Thoroughly clean shoes before reuse. Get medical attention. Wash with a disinfectant soap and cover the contaminated skin with an anti-bacterial cream. Seek medical attention. 
+*Inhalation:* If inhaled, remove to fresh air. If not breathing, give artificial respiration. If breathing is difficult, give oxygen. Seek medical attention if serious inhalation.\
+**EDTA**\
+Irritating to the eyes, skin and the mucous membrane of the upper respiratory tract.  It is flammable –do not expose to heat or flame.  Flame caused by EDTA can be extinguished by carbon dioxide, foam, water or dry chemicals. EDTA has emerged as a persistent organic pollutant.\
+[First Aid]{.underline}\
+*Skin:* rinse with water immediately\
+*Eye contact:* wash with water immediately and contact a physician right away.\
+

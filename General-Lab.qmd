@@ -6,3 +6,5 @@ A comprehensive list of Standard Operating Procedures (i.e. protocols) for use i
 
 {{< include LowTEbuffer.qmd >}}
 ## GE-001.00
+
+{{< include 25xTBE.qmd >}}
